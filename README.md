@@ -6,47 +6,6 @@ Code and data used to develop the WHO Global Tuberculosis Report for 2023. The r
 
 * **data**: External datasets:
 
-  * **bcg**: BCG coverage indicator from the WHO Global Health Observatory
-
-  * **gtb**: R binary datasets extracted from the WHO gobal TB database:
-
-    * **other**: Country lists, population estimates, reference lists, survey results and external indicators
-
-    * **snapshot_yyyy-mm-dd**: Snapshot of country-reported data
-
-  * **ihme**: VR data from IHME
-
-  * **mortality**: VR data from the WHO Mortality database
-
-  * **unaids**: HIV estimates from UNAIDS
-
-* **disaggregation**: Pete Dodd's R scripts to estimate incidence and mortality disaggregated by age group and sex.
-
-* **doc**: A PDF version of the web-based data collection form used by countries to report data to WHO. The PDF also shows database variable names.
-
-* **drtb**: Pete Dodd's R and Stan scripts to estimate drug-resistant TB burden.
-
-* **dynamic**: Nim Arinaminpathy's Matlab code for dynamic modelling of TB incidence and mortality for the period 2020-2022 in selected countries.
-
-* **finance**: Andrew Siroka and Peter Nguhiu's R and Stata code for analysing TB financing data.
-
-* **import**: R scripts to load saved data files from the WHO gobal TB database and the Global Health Observatory.
-
-* **inc_mort**: Mathieu Bastard and Philippe Glaziou's R scripts to produce estimates of TB incidence and mortality
-
-* **lives_saved**: Takuya Yamanaka and Philippe Glaziou's R scripts to produce estimates of the number of death averted by TB treatment and ART since 2005.
-
-* **report**: R Markdown scripts by Mathieu Bastard/Philippe Glaziou, Irwin Law, Peter Nguhiu, Hazim Timimi and Takuya Yamanaka to generate tables, static figures, interactive Kendo UI charts and text for the 2023 edition of the WHO Global Tuberculosis Report web pages and the report PDF. 
-
-# Global tuberculosis database data sets
-
-The following sections show the data object names chosen in previous years. If you use the `load_gtb()` function you don't need to know if a data object is part of a snapshot or other, not does your code have to use the same object name.
-
-For example, the following line loads the most recently saved snapshot of notifications into a dataframe / data table called `notifs`:
-```
-notifs <- load_gtb("tb")
-```
-
 ## Snapshot data
 
 * **agg**: TB/HIV indicators with rules to be used to calculate aggregates from `view_TME_master_TBHIV_for_aggregates`
@@ -106,26 +65,3 @@ notifs <- load_gtb("tb")
 
 * **sdgdef**: Full names of SDG indicators and their sources from `"external_indicators.view_indicator_definition`
 
-### Surveys and survey results
-
-* **svy.cc**: Results of catastrophic costs surveys from `survey.view_catastrophic_costs_survey`
-
-* **svy.prev**: Prevalence estimates resulting from prevalence surveys from `survey.view_prevalence_survey_estimates`
-
-* **svy.prevcases**: Numbers of TB cases found in prevalence surveys from `survey.view_prevalence_survey_cases`
-
-* **svy.prevchar**: Characteristics of prevalence surveys from `survey.view_prevalence_survey`
-
-Codes used in survey records:
-
-* **svy.agegr**: Codes for age groups from `survey.age_group`
-
-* **svy.areatype**: Codes for area types from `survey.area_type`
-
-* **svy.casetype**: Codes for case types from `survey.case_type`
-
-* **svy.patientgr**: Codes for patient groups from `survey.patient_group`
-
-* **svy.screen**: Codes for screening methods from `survey.screen_group`
-
-* **svy.sex**: Codes for sex from `survey.sex`
