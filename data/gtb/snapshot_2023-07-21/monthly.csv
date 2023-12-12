@@ -1,0 +1,655 @@
+"","country","iso2","iso3","year","report.frequency","report.coverage","m.01","m.02","m.03","m.04","m.05","m.06","m.07","m.08","m.09","m.10","m.11","m.12","q.1","q.2","q.3","q.4","gaps.na","remarks"
+"1","Aruba","AW","ABW",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Aruba","AW","ABW",2021,70,34,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"3","Aruba","AW","ABW",2022,70,34,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"4","Aruba","AW","ABW",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,0,NA
+"5","Angola","AO","AGO",2020,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18164,16650,16101,14342,0,"Jusqu'á ce jour la fréquence de notification de cas de Tuberculose est trimestrielle.  Le total accumulé  de nouveaux cas de tuberculose et de rechute (toutes formes confondues) qui ont été notifiés  pendant la période de janvier à juin 2020 est de  30. 231 dont 93 cas de Tuberculose pharmaco-résistante repris en deux trimestres, au premier trimestre 17.213 dont 59 TBMDR et au deuxième trimestre 13.018 dont 34 TBMDR.
+Données partielles 14 provinces sur 18 et seront actualisées "
+"6","Angola","AO","AGO",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19600,14982,13211,NA,0,"Ces données sont encore partielles"
+"7","Angola","AO","AGO",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14115,18520,20254,15947,0,NA
+"8","Angola","AO","AGO",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16723,NA,NA,NA,0,NA
+"9","Albania","AL","ALB",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,79,56,45,1,"January-June data provided by the WHO European Regional Office"
+"10","Albania","AL","ALB",2021,70,34,17,11,20,27,28,24,34,22,29,22,21,14,NA,NA,NA,NA,1,NA
+"11","Albania","AL","ALB",2022,70,34,17,26,25,19,26,25,26,25,19,22,22,21,NA,NA,NA,NA,1,NA
+"12","Albania","AL","ALB",2023,70,34,27,19,29,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"13","Andorra","AD","AND",2020,70,34,0,1,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA,0,NA
+"14","Andorra","AD","AND",2021,70,34,0,0,0,0,1,0,1,0,0,0,0,0,NA,NA,NA,NA,0,NA
+"15","Andorra","AD","AND",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,1,NA
+"16","Andorra","AD","AND",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,1,NA
+"17","Argentina","AR","ARG",2020,70,34,1215,908,857,774,762,731,704,825,748,774,756,714,NA,NA,NA,NA,0,NA
+"18","Argentina","AR","ARG",2021,70,34,926,835,992,857,736,844,938,1090,1206,1027,1042,718,NA,NA,NA,NA,0,NA
+"19","Argentina","AR","ARG",2022,70,34,798,929,1223,1206,1235,1121,1198,1516,1526,1451,1415,1026,NA,NA,NA,NA,0,NA
+"20","Argentina","AR","ARG",2023,70,34,1365,1005,1354,1098,1142,698,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"21","Armenia","AM","ARM",2020,70,34,45,48,55,16,25,31,34,24,34,29,23,30,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"22","Armenia","AM","ARM",2021,70,34,20,36,38,30,26,35,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"23","Armenia","AM","ARM",2022,70,34,41,35,37,25,42,32,28,39,34,34,40,53,NA,NA,NA,NA,0,NA
+"24","Armenia","AM","ARM",2023,70,34,26,41,41,31,43,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"25","Antigua and Barbuda","AG","ATG",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,NA,0,NA
+"26","Antigua and Barbuda","AG","ATG",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,NA
+"27","Antigua and Barbuda","AG","ATG",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,NA
+"28","Antigua and Barbuda","AG","ATG",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,0,NA
+"29","Austria","AT","AUT",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Austria","AT","AUT",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Austria","AT","AUT",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Austria","AT","AUT",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Azerbaijan","AZ","AZE",2020,70,NA,359,424,417,310,257,342,267,279,247,270,241,267,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"34","Azerbaijan","AZ","AZE",2021,70,34,176,242,216,242,296,312,329,342,376,383,354,346,NA,NA,NA,NA,0,NA
+"35","Azerbaijan","AZ","AZE",2022,70,34,288,322,310,411,341,340,334,356,329,345,323,290,NA,NA,NA,NA,0,"As per email from Giorgi Kuchikhidze 2023-05-08"
+"36","Azerbaijan","AZ","AZE",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Burundi","BI","BDI",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1823,1794,1713,1544,0,NA
+"38","Burundi","BI","BDI",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1870,1894,NA,NA,0,"Les données présentées ne sont pas encore validées. Elles sont donc provisoires"
+"39","Burundi","BI","BDI",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2032,NA,NA,NA,1,"Le total des cas de tuberculose enregistrés au cours de la période de janvier à mars 2023 est de 2032 (nouveaux patients et rechutes) plus 11 cas d'échecs, soit 2043 TTF. Au cours de la méme période, 12 malades TB/RR-MR ont été mis sous traitement.
+Soulignons à toutes fins utiles que les données rapportées n'ont pas été validées."
+"40","Belgium","BE","BEL",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Belgium","BE","BEL",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Belgium","BE","BEL",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Belgium","BE","BEL",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","Benin","BJ","BEN",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1035,922,844,910,1,NA
+"45","Benin","BJ","BEN",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1049,1007,NA,NA,1,NA
+"46","Benin","BJ","BEN",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Burkina Faso","BF","BFA",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1632,1700,1766,NA,0,"   "
+"48","Burkina Faso","BF","BFA",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1720,1897,1559,1718,0,NA
+"49","Burkina Faso","BF","BFA",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1861,NA,NA,NA,0,NA
+"50","Bangladesh","BD","BGD",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,71521,28246,60497,69826,0,"We receive report in quarterly basis. 1st quarter notification(January-March): 71,521; 2nd quarter (April-June): 28,246;  3rd quarter (July-September): 60,497 and 4th quarter (October -December): 69826."
+"51","Bangladesh","BD","BGD",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,74332,76007,77021,79157,1,NA
+"52","Bangladesh","BD","BGD",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,69687,56028,66824,70587,0,NA
+"53","Bangladesh","BD","BGD",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,74754,74296,NA,NA,0,NA
+"54","Bulgaria","BG","BGR",2020,70,NA,110,93,79,76,72,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"55","Bulgaria","BG","BGR",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Bulgaria","BG","BGR",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Bulgaria","BG","BGR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Bahamas","BS","BHS",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,5,10,6,0,NA
+"59","Bahamas","BS","BHS",2021,70,34,2,3,9,8,4,4,4,1,1,0,3,6,NA,NA,NA,NA,1,"Opting to submit monthly reports for new and relapse cases"
+"60","Bahamas","BS","BHS",2022,70,34,4,2,4,7,5,6,6,4,1,4,2,4,NA,NA,NA,NA,0,NA
+"61","Bahamas","BS","BHS",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8,NA,NA,0,NA
+"62","Bosnia and Herzegovina","BA","BIH",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Bosnia and Herzegovina","BA","BIH",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Bosnia and Herzegovina","BA","BIH",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Bosnia and Herzegovina","BA","BIH",2023,70,34,22,39,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"Total numbers presented for Bosnia and Herzegovina for January, February and March 2023 refer to the following entities: 
+- Federation of BiH (55),
+- Republic of Srpska (34), and
+- Brčko District of BiH (2)."
+"66","Belarus","BY","BLR",2020,70,34,195,164,181,136,98,88,103,105,136,137,133,86,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"67","Belarus","BY","BLR",2021,70,34,92,107,139,165,136,146,117,121,121,95,119,124,NA,NA,NA,NA,0,NA
+"68","Belarus","BY","BLR",2022,70,34,139,132,163,169,142,163,115,114,123,130,154,139,NA,NA,NA,NA,0,NA
+"69","Belarus","BY","BLR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Belize","BZ","BLZ",2020,70,NA,7,9,12,10,6,10,5,3,5,2,9,3,NA,NA,NA,NA,0,NA
+"71","Belize","BZ","BLZ",2021,70,34,2,5,7,6,5,11,6,3,0,3,7,3,NA,NA,NA,NA,1,NA
+"72","Belize","BZ","BLZ",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,24,23,18,0,NA
+"73","Belize","BZ","BLZ",2023,70,34,7,10,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"74","Bolivia (Plurinational State of)","BO","BOL",2020,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1787,1035,1088,2018,0,"No se cuenta con información de algunos Establecimientos de Salud, en los que falleció el personal de salud responsable del envió de la información de Tuberculosis."
+"75","Bolivia (Plurinational State of)","BO","BOL",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1540,1558,1791,NA,0,"Se ha corregido las notificaciones de los anteriores trimestres por duplicidad de datos."
+"76","Bolivia (Plurinational State of)","BO","BOL",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Bolivia (Plurinational State of)","BO","BOL",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Brazil","BR","BRA",2020,70,34,8359,7027,8221,5910,5430,6117,6755,6634,7033,6778,5879,4495,NA,NA,NA,NA,1,"Brazil does not use an online information system for TB, so, the decrease in the total number of TB cases (new and relapses) notified in the latest months of 2020 is virtual, and due to the outdated information system. "
+"79","Brazil","BR","BRA",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"The Information System to notify tuberculosis cases in Brazil is not online. There is a big delay to send the information filled in the Health Units to the Ministry of Health. Because of this it is not possible to send WHO the monthly information for 2021.
+
+To tuberculosis drug resistant cases our country can do this monitoring because for these cases there is an online information system. "
+"80","Brazil","BR","BRA",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"Brazil's information system is not online and timeliness is a problem for Brazilian TB data. 
+Therefore, we chose not to send underestimated data for 2022."
+"81","Brazil","BR","BRA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Barbados","BB","BRB",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Barbados","BB","BRB",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Barbados","BB","BRB",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,NA,0,"Total 3 cases, information by trimester unknown at the time of reporting."
+"85","Barbados","BB","BRB",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Botswana","BW","BWA",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,691,608,525,320,0,"The data is not complete. This is preliminary actual statistcis. "
+"87","Botswana","BW","BWA",2022,70,35,252,216,283,215,204,205,153,146,114,12,NA,NA,NA,NA,NA,NA,0,"NTP has just conducted its Data verification activity and noted that majority of case registration data is not captured into OpenMRS. So the currents numbers are low."
+"88","Botswana","BW","BWA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Central African Republic","CF","CAF",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Central African Republic","CF","CAF",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3107,3132,NA,NA,0,"La complétude des données à ce stade est de 93% (84 CDT/90) pour le Trimestre 1 et de 90% (81/90) pour le Trimestre 2. Les données sont encore collectées à l'aide des supports papiers et sont transmis par des moyens occasionnels. Mobiliser des moyens pour une gestion dématérialisée des données pourra améliorer la promptitude."
+"91","Central African Republic","CF","CAF",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Central African Republic","CF","CAF",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Canada","CA","CAN",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Canada","CA","CAN",2021,70,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"Our provincial and territorial partners send us data annually (neither monthly or quarterly) in May/June each year. For example, in the year 2021, TB data for the year 2020 is received May 2021. Thus, data requested above will not be received until May/June 2022."
+"95","Canada","CA","CAN",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","Switzerland","CH","CHE",2020,70,34,34,56,18,19,39,35,32,28,25,13,22,27,NA,NA,NA,NA,0,NA
+"97","Switzerland","CH","CHE",2021,70,34,20,19,34,33,43,32,42,23,20,25,24,21,NA,NA,NA,NA,0,"counts from october to december for 2021 may not be complete."
+"98","Switzerland","CH","CHE",2022,70,34,33,25,26,36,35,40,37,28,29,25,22,29,NA,NA,NA,NA,0,NA
+"99","Switzerland","CH","CHE",2023,70,34,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Chile","CL","CHL",2020,70,34,254,236,221,156,125,151,151,202,217,215,226,197,NA,NA,NA,NA,1,"
+data from 2021 is not available yet"
+"101","Chile","CL","CHL",2021,70,34,198,194,220,203,200,197,242,269,244,234,220,238,NA,NA,NA,NA,1,NA
+"102","Chile","CL","CHL",2022,70,34,225,157,234,238,277,245,228,284,242,244,217,214,NA,NA,NA,NA,1,NA
+"103","Chile","CL","CHL",2023,70,34,225,238,253,193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"104","China","CN","CHN",2020,70,34,47506,31538,51538,60142,58528,59628,58329,53641,52930,47619,48880,44990,NA,NA,NA,NA,0,"These are the numbers of reported pulmonary TB cases sourced from the monthly communicable disease surveillance reports of the China CDC. They have been multiplied by a factor of 0.7019 to account for the historical relationship between reported cases and the final number of notified cases for the period 2017-2019 (annually rather than monthly data)"
+"105","China","CN","CHN",2021,70,34,45492,38903,56716,56537,52813,51859,53799,47705,47597,43090,43344,43369,NA,NA,NA,NA,0,"These are the numbers of reported pulmonary TB cases sourced from the monthly communicable disease surveillance reports of the China CDC. They have been multiplied by a factor of 0.7019 to account for the historical relationship between reported cases and the final number of notified cases for the period 2017-2019 (annually rather than monthly data)"
+"106","China","CN","CHN",2022,70,34,39848,34066,52041,43266,44403,49666,49144,50841,45690,36712,36063,27598,NA,NA,NA,NA,1,NA
+"107","China","CN","CHN",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"108","Côte d'Ivoire","CI","CIV",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4832,5303,5258,5291,0,NA
+"109","Côte d'Ivoire","CI","CIV",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5503,5214,5325,5400,0,NA
+"110","Côte d'Ivoire","CI","CIV",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5930,NA,NA,NA,0,NA
+"111","Cameroon","CM","CMR",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5751,5497,5677,5815,1,NA
+"112","Cameroon","CM","CMR",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6227,5667,6559,6993,0,NA
+"113","Cameroon","CM","CMR",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6178,NA,NA,NA,0,NA
+"114","Democratic Republic of the Congo","CD","COD",2020,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49504,48381,50753,50854,0,"la complétude de rapportage n'est pas totale,  nous allons modifier ses données avec l'évolution de la complétude mais ses données concernent (incluent) toutes les unités du pays"
+"115","Democratic Republic of the Congo","CD","COD",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53466,55038,52983,53893,0,"Le taux de rapportage (complétude de rapportage) est de  98,3% pour le q1; de 97% pour le q2; de 97,5% pour le q.3 2021 enfin  de  97% pour le q4 des unités ayant rapporté"
+"116","Democratic Republic of the Congo","CD","COD",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Democratic Republic of the Congo","CD","COD",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60742,NA,NA,NA,0,"La complétude des données est à 93%"
+"118","Congo","CG","COG",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Congo","CG","COG",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Congo","CG","COG",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Congo","CG","COG",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Colombia","CO","COL",2020,70,NA,1108,1222,1240,912,960,810,796,805,975,1062,969,878,NA,NA,NA,NA,0,"Se están realizando los respectivos seguimientos para garantizar que se efectúe el reporte completo de casos durante la actual emergencia sanitaria. No obstante se evidencia disminución en la detección de los casos en razó a la emergencia sanitaria. Los datos reportados deben observarse como preliminares con corte 05 de febrero de 2021
+
+"
+"123","Colombia","CO","COL",2021,70,NA,702,901,1144,1036,1043,953,1085,1241,1402,1374,1276,1122,NA,NA,NA,NA,0,"Datos preliminares sujetos a actualización. Se observa disminución de casos de TB especialmente en meses donde existe un impacto mayor de la COVID-19"
+"124","Colombia","CO","COL",2022,70,34,985,1205,1450,1485,1574,1498,1498,1606,1551,1502,1561,1537,NA,NA,NA,NA,0,"información preliminar sujeta a actualización. "
+"125","Colombia","CO","COL",2023,70,34,1365,1540,1894,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Datos preliminares"
+"126","Comoros","KM","COM",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Comoros","KM","COM",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Comoros","KM","COM",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Cabo Verde","CV","CPV",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,1,NA
+"130","Cabo Verde","CV","CPV",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","Cabo Verde","CV","CPV",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Costa Rica","CR","CRI",2020,70,35,36,40,25,32,38,30,30,28,20,20,22,14,NA,NA,NA,NA,1,"Falta ingresar o revisar algunos casos de Centros penales"
+"133","Costa Rica","CR","CRI",2021,70,NA,21,31,28,38,17,27,29,21,19,23,18,7,NA,NA,NA,NA,0,NA
+"134","Costa Rica","CR","CRI",2022,70,34,20,22,28,30,27,23,33,20,18,25,31,26,NA,NA,NA,NA,0,"En Costa Rica el reporte es trimestral por lo que no se puede dar aún el de enero 2023"
+"135","Costa Rica","CR","CRI",2023,70,35,12,22,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"136","Cuba","CU","CUB",2020,70,NA,49,58,41,56,31,49,70,33,57,43,45,48,NA,NA,NA,NA,0,"Todas estas cifras son preliminares,aun con probabilidades de modificacion "
+"137","Cuba","CU","CUB",2021,70,34,32,33,63,37,53,40,26,19,30,NA,NA,NA,NA,NA,NA,NA,1,NA
+"138","Cuba","CU","CUB",2022,70,NA,41,59,95,68,43,70,42,53,42,58,87,57,NA,NA,NA,NA,1,NA
+"139","Cuba","CU","CUB",2023,70,NA,34,55,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"140","Curaçao","CW","CUW",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","Curaçao","CW","CUW",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Curaçao","CW","CUW",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Cyprus","CY","CYP",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Cyprus","CY","CYP",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Cyprus","CY","CYP",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Cyprus","CY","CYP",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Czechia","CZ","CZE",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","Czechia","CZ","CZE",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","Czechia","CZ","CZE",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","Czechia","CZ","CZE",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Germany","DE","DEU",2020,70,NA,403,369,360,295,358,386,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"152","Germany","DE","DEU",2021,70,34,303,298,360,336,341,362,381,325,324,280,275,271,NA,NA,NA,NA,1,NA
+"153","Germany","DE","DEU",2022,70,34,262,299,347,304,395,347,334,369,341,257,337,NA,NA,NA,NA,NA,0,NA
+"154","Germany","DE","DEU",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Dominica","DM","DMA",2020,70,NA,5,8,3,1,3,0,1,0,1,0,0,0,NA,NA,NA,NA,0,NA
+"156","Dominica","DM","DMA",2021,70,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,NA
+"157","Dominica","DM","DMA",2022,70,34,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,NA
+"158","Dominica","DM","DMA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","Denmark","DK","DNK",2020,70,NA,19,25,19,15,19,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"160","Denmark","DK","DNK",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","Denmark","DK","DNK",2022,70,34,15,19,28,16,23,28,17,8,12,18,9,10,NA,NA,NA,NA,0,"These data are national figures for Denmark, however provisional and not completely validated. Please note that figures previously reported have been updated.
+Best regards Louise Holm and Anders Koch, Statens Serum Institut, national responsible persons for reporting of TB for Denmark."
+"162","Denmark","DK","DNK",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Dominican Republic","DO","DOM",2020,70,34,327,284,200,95,161,179,168,155,226,219,184,132,NA,NA,NA,NA,0,NA
+"164","Dominican Republic","DO","DOM",2021,70,34,232,257,339,330,303,253,311,332,314,301,268,256,NA,NA,NA,NA,0,NA
+"165","Dominican Republic","DO","DOM",2022,70,34,286,371,507,371,437,362,383,349,325,327,284,226,NA,NA,NA,NA,0,NA
+"166","Dominican Republic","DO","DOM",2023,70,34,352,324,222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"167","Algeria","DZ","DZA",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"168","Algeria","DZ","DZA",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","Algeria","DZ","DZA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Ecuador","EC","ECU",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1599,818,1386,1465,0,"casos nuevos y recaída, tb todas las formas año 2020 (Ecuador)"
+"171","Ecuador","EC","ECU",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1251,1227,1773,NA,0,NA
+"172","Ecuador","EC","ECU",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1549,1655,1693,1563,0,NA
+"173","Ecuador","EC","ECU",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1635,NA,NA,NA,0,NA
+"174","Eritrea","ER","ERI",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,317,NA,NA,NA,1,"The program collects the TB data on quarter base only"
+"175","Eritrea","ER","ERI",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Eritrea","ER","ERI",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Spain","ES","ESP",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","Spain","ES","ESP",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Spain","ES","ESP",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","Spain","ES","ESP",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Estonia","EE","EST",2020,70,34,12,10,8,6,9,11,16,8,8,12,16,3,NA,NA,NA,NA,1,"January-June data provided by the WHO European Regional Office, updated 26.02.2021"
+"182","Estonia","EE","EST",2021,70,34,8,10,13,9,6,5,11,9,3,13,12,NA,NA,NA,NA,NA,1,"Data for December 2021 will be available from February 2022."
+"183","Estonia","EE","EST",2022,70,34,11,10,11,7,11,13,10,12,11,15,6,6,NA,NA,NA,NA,0,NA
+"184","Estonia","EE","EST",2023,70,34,9,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"185","Ethiopia","ET","ETH",2020,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28879,22122,24832,26334,1,"Note that Report for the quarter Oct-Dec 2020 not included from the Northern region(Tigray). We have expected 1500-1800 cases per quarter from this region."
+"186","Ethiopia","ET","ETH",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25764,26159,26031,25793,0,"As a result of instability in the northern part of the country; reports from the Tigray region and part of the Amhara region were not included."
+"187","Ethiopia","ET","ETH",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29352,31032,30836,32153,0,NA
+"188","Ethiopia","ET","ETH",2023,70,35,10193,11069,11101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Please not that health facilities in the conflict area and one region (Tigray) report are not included in this report. "
+"189","Finland","FI","FIN",2020,70,34,19,17,14,9,11,13,17,13,20,10,19,12,NA,NA,NA,NA,0,NA
+"190","Finland","FI","FIN",2021,70,34,21,11,16,11,11,21,11,15,8,11,14,8,NA,NA,NA,NA,0,NA
+"191","Finland","FI","FIN",2022,70,34,16,9,10,26,11,16,18,19,15,23,19,10,NA,NA,NA,NA,0,NA
+"192","Finland","FI","FIN",2023,70,34,6,17,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"193","France","FR","FRA",2020,70,34,380,397,355,370,396,409,445,344,414,359,339,347,NA,NA,NA,NA,1,"Data is reported uo to February 24, 2021. 2020 data are not consolidated and may slightly change, although probably not substantially. 2021 data are very preliminary and will substantially change, including January but especially February which is reported only until February 24."
+"194","France","FR","FRA",2021,70,34,319,353,410,387,321,453,373,354,363,306,358,259,NA,NA,NA,NA,1,NA
+"195","France","FR","FRA",2022,70,NA,325,330,424,336,389,359,316,356,328,289,325,334,NA,NA,NA,NA,0,NA
+"196","France","FR","FRA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","Gabon","GA","GAB",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","Gabon","GA","GAB",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1313,1290,1271,1199,0,NA
+"199","Gabon","GA","GAB",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1364,1554,1715,1666,0,"(Email de Dr.Manguinga Guitouka Strédice 2023-05-23)
+
+"
+"200","Gabon","GA","GAB",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,716,NA,NA,NA,0,NA
+"201","United Kingdom of Great Britain and Northern Ireland","GB","GBR",2020,70,NA,410,396,413,354,317,384,414,322,370,373,345,361,NA,NA,NA,NA,1,"January-December 2020 data provided by the WHO European Regional Office"
+"202","United Kingdom of Great Britain and Northern Ireland","GB","GBR",2021,70,35,323,322,387,405,375,445,405,372,376,338,328,364,NA,NA,NA,NA,1,"Reporting data for England only. "
+"203","United Kingdom of Great Britain and Northern Ireland","GB","GBR",2022,70,35,305,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","United Kingdom of Great Britain and Northern Ireland","GB","GBR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","Georgia","GE","GEO",2020,70,NA,162,183,170,95,148,169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"206","Georgia","GE","GEO",2021,70,34,114,136,155,141,117,134,146,108,112,99,101,119,NA,NA,NA,NA,0,NA
+"207","Georgia","GE","GEO",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Georgia","GE","GEO",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Ghana","GH","GHA",2021,70,35,1166,926,1130,1135,1132,1161,1022,1041,974,1107,1128,1015,NA,NA,NA,NA,1,"Some reporting units have not reported yet. "
+"210","Ghana","GH","GHA",2022,70,34,1122,1148,1360,1234,1233,1228,1096,1223,1187,1070,1130,NA,NA,NA,NA,NA,0,"Data for October and November will be updated as the window for reporting per national guideline is not closed."
+"211","Ghana","GH","GHA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","Guinea","GN","GIN",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4705,4517,4474,4334,0,"les données sont encours de revue pour validation finale "
+"213","Guinea","GN","GIN",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4895,4603,5204,5209,0,NA
+"214","Guinea","GN","GIN",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Gambia","GM","GMB",2021,70,35,185,165,205,197,178,228,143,165,166,178,239,169,NA,NA,NA,NA,1,"Some of months not yet verified but they will be reported accordingly."
+"216","Gambia","GM","GMB",2022,70,34,172,178,234,206,200,224,205,195,245,213,219,226,NA,NA,NA,NA,0,NA
+"217","Gambia","GM","GMB",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","Guinea-Bissau","GW","GNB",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,608,627,593,590,1,"Donnés préliminaires de TB dans le trimestre 1, 2 et 3. Il manque encore les données de trimestre 4. "
+"219","Guinea-Bissau","GW","GNB",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,739,745,749,636,1,"Os dados de quarto trimestre não estão completos por falta de dados de Região sanitária de Gabú."
+"220","Guinea-Bissau","GW","GNB",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,668,508,NA,NA,1,"No segundo trimestre ainda falta dados de duas regiões sanitárias."
+"221","Equatorial Guinea","GQ","GNQ",2021,70,34,155,135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"DO YOU MEAN 2020 AND 2021???? it reads 2021 and 2022
+----
+Hazim Timimi (WHO) deleted the monthly notifications of 2020 (93, 127, 145, 105, 98, 78, 84, 97, 109, 105, 161, 144) and moved January/February 2022 to 2021. Sent email 2021-10-20 requesting notifications up to end of September 2021."
+"222","Equatorial Guinea","GQ","GNQ",2022,70,35,164,202,225,194,218,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"This preliminary data corresponds to approximately 80% of reporting Jan-May. June reports are still being processed"
+"223","Equatorial Guinea","GQ","GNQ",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Greece","GR","GRC",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","Greece","GR","GRC",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","Greece","GR","GRC",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","Greece","GR","GRC",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Grenada","GD","GRD",2020,70,34,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,NA
+"229","Grenada","GD","GRD",2021,70,34,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,1,NA
+"230","Grenada","GD","GRD",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,"Total 2 cases, information by month unknown at the time of reporting for 1 case."
+"231","Grenada","GD","GRD",2023,70,34,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"232","Guatemala","GT","GTM",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,898,561,566,684,0,NA
+"233","Guatemala","GT","GTM",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,600,722,774,706,0,"es dato preliminar, los datos de diciembre no se tiene completamente verificados. "
+"234","Guatemala","GT","GTM",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,915,1085,1075,NA,0,"se tiene pendiente el ultimo trimestre"
+"235","Guatemala","GT","GTM",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"236","Guyana","GY","GUY",2020,70,34,53,33,34,9,24,30,24,27,29,40,19,29,NA,NA,NA,NA,0,"Months January and February are incomplete since reports are done quarterly and request for information are still coming in."
+"237","Guyana","GY","GUY",2021,70,34,24,21,31,34,33,33,45,36,34,44,41,38,NA,NA,NA,NA,0,NA
+"238","Guyana","GY","GUY",2022,70,34,32,17,38,32,56,24,29,24,20,21,17,28,NA,NA,NA,NA,0,NA
+"239","Guyana","GY","GUY",2023,70,35,31,31,30,19,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"The information provided above reflects reports received and verified from some of the sites. Data is still being entered."
+"240","Honduras","HN","HND",2020,70,34,220,195,169,110,123,144,111,121,155,206,147,153,NA,NA,NA,NA,1," Estos son datos relimares 2020 casos TB Sensible (nuevos y recaídas).  El flujo de la información actualmente es trimestral, pero a través de la Unidad de vigilancia de la salud la obtenemos de forma mensual. "
+"241","Honduras","HN","HND",2021,70,34,159,141,171,177,164,185,180,182,161,NA,NA,NA,NA,NA,NA,NA,0,NA
+"242","Honduras","HN","HND",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,553,NA,NA,NA,0,NA
+"243","Honduras","HN","HND",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","Croatia","HR","HRV",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","Croatia","HR","HRV",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Croatia","HR","HRV",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","Croatia","HR","HRV",2023,70,34,17,5,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"248","Haiti","HT","HTI",2020,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3007,1997,3019,NA,0,"Ces informations sont tirées directement des rapports trimestriels des départements sanitaires : Mars pour janvier-mars, juin pour avril-juin et septembre pour juillet-septembre
+
+"
+"249","Haiti","HT","HTI",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","Haiti","HT","HTI",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","Haiti","HT","HTI",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","Hungary","HU","HUN",2020,70,NA,58,32,43,32,23,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"253","Hungary","HU","HUN",2021,70,34,30,18,38,32,22,25,18,22,22,36,32,25,NA,NA,NA,NA,0,"Units are reporting if they detected any case."
+"254","Hungary","HU","HUN",2022,70,34,40,28,36,46,40,45,32,33,38,31,31,37,NA,NA,NA,NA,0,"We added the notified ones of 2022, but there are more cases identified in the laboratory and not notified yet J-M: 9,4,5,5,5
+
+I have corrected the numbers to reflect the status of the register as of January 2023. "
+"255","Hungary","HU","HUN",2023,70,34,51,37,48,45,53,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"256","Indonesia","ID","IDN",2020,70,NA,43787,40427,39398,25369,19049,26593,26878,23179,24317,20644,21124,16747,NA,NA,NA,NA,1,NA
+"257","Indonesia","ID","IDN",2021,70,NA,35053,31532,39848,38948,34749,37652,25075,30670,39631,42452,45619,44017,NA,NA,NA,NA,1,"Data as of 1 April 2022"
+"258","Indonesia","ID","IDN",2022,70,NA,66025,48431,56857,52675,54903,66734,63507,67759,69874,69597,68806,56626,NA,NA,NA,NA,0,"data per 10 January 2023"
+"259","Indonesia","ID","IDN",2023,70,34,79196,69924,72217,52160,71911,57249,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Data per 20 July 2023 (provisionary data)"
+"260","India","IN","IND",2020,70,NA,177098,192841,152973,75515,109533,141847,126612,109398,125253,133883,125356,151174,NA,NA,NA,NA,0,"Source of Data - Nikshay (NTP MIS), Extracted as on 01-02-2021. Now, there has been an additional increase of 3000 cases in India figures when further extraction done on 12-02-2021"
+"261","India","IN","IND",2021,70,34,164960,169979,183419,122049,83911,159795,188615,180869,187770,171065,157424,163525,NA,NA,NA,NA,1,"Provisional data of Jan-December 2021 submitted. Data extracted from Nikshay as of 03rd February 2022."
+"262","India","IN","IND",2022,70,34,148883,173491,212653,205515,208318,209864,195837,184797,191730,160140,179912,179294,NA,NA,NA,NA,1,"The data source for the above ""No. of New and Relapse cases (All forms, including DRTB)"" is Nikshay and the date of extraction is as of 22nd Feb 2023. The data for early months of 2023 will be updated in the coming month."
+"263","India","IN","IND",2023,70,34,168111,180786,179330,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"The above are preliminary data points extracted from Ni-kshay as of 09-04-2023."
+"264","Ireland","IE","IRL",2020,70,34,22,18,23,17,20,29,20,18,20,15,24,14,NA,NA,NA,NA,0,"Data  for January to February 2021 has not yet been validated. Data  for 2020 is still undergoing final validations but it is unlikely that the actual number of cases will change."
+"265","Ireland","IE","IRL",2021,70,34,16,18,25,25,15,23,22,11,18,11,16,19,NA,NA,NA,NA,0,NA
+"266","Ireland","IE","IRL",2022,70,34,22,23,22,12,18,28,20,19,13,15,16,17,NA,NA,NA,NA,0,NA
+"267","Ireland","IE","IRL",2023,70,34,10,17,22,21,16,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"268","Iceland","IS","ISL",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","Iceland","IS","ISL",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","Iceland","IS","ISL",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","Iceland","IS","ISL",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","Israel","IL","ISR",2020,70,NA,22,10,5,10,10,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"273","Israel","IL","ISR",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Israel","IL","ISR",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Israel","IL","ISR",2023,70,NA,16,15,34,11,22,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"276","Italy","IT","ITA",2020,70,35,219,167,91,103,141,265,246,161,143,119,119,139,NA,NA,NA,NA,0,"Due to the covid pandemic, we have extended the deadline for notification."
+"277","Italy","IT","ITA",2021,70,35,165,112,204,101,186,306,246,173,174,135,75,75,NA,NA,NA,NA,0,NA
+"278","Italy","IT","ITA",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","Italy","IT","ITA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280","Jamaica","JM","JAM",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,20,16,8,0,"These are preliminary data"
+"281","Jamaica","JM","JAM",2021,70,34,2,7,4,1,6,5,3,3,3,2,3,4,NA,NA,NA,NA,1,"2021 Data are preliminary."
+"282","Jamaica","JM","JAM",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,19,34,11,0,NA
+"283","Jamaica","JM","JAM",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,NA,0,NA
+"284","Kazakhstan","KZ","KAZ",2020,70,34,982,995,918,840,553,634,439,579,737,857,850,851,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"285","Kazakhstan","KZ","KAZ",2021,70,34,666,796,847,1002,779,820,740,624,729,723,831,855,NA,NA,NA,NA,0,NA
+"286","Kazakhstan","KZ","KAZ",2022,70,34,657,917,876,1041,816,923,728,718,762,698,843,871,NA,NA,NA,NA,0,NA
+"287","Kazakhstan","KZ","KAZ",2023,70,34,819,854,849,937,830,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"288","Kenya","KE","KEN",2020,70,34,7543,6796,7478,5271,5103,5752,6013,5787,6023,6057,5578,3722,NA,NA,NA,NA,0,"The data provided is based on the date treatment was started as opposed to the date of notfication to the national program. The data is from all the expected reporting TB control zones"
+"289","Kenya","KE","KEN",2021,70,34,3675,6381,9628,5396,6069,7486,4226,6512,7999,NA,NA,NA,NA,NA,NA,NA,1,NA
+"290","Kenya","KE","KEN",2022,70,34,5330,6934,10269,5219,7287,8556,5802,7186,8941,6818,8452,9834,NA,NA,NA,NA,0,NA
+"291","Kenya","KE","KEN",2023,70,NA,8561,8044,9684,8427,9184,6709,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"292","Kyrgyzstan","KG","KGZ",2020,70,NA,448,573,554,294,280,351,241,239,338,232,228,244,NA,NA,NA,NA,1,"данных за январь - февраль 2021 года нет.
+данные за октябрь - декабрь 2020 года - предварительные."
+"293","Kyrgyzstan","KG","KGZ",2021,70,34,238,422,529,542,397,337,328,299,377,318,278,325,NA,NA,NA,NA,1,NA
+"294","Kyrgyzstan","KG","KGZ",2022,70,NA,332,396,413,442,369,440,316,253,273,279,286,297,NA,NA,NA,NA,0,"Данные за 3 месяца (октябрь, ноябрь, декабрь) четвертого квартала 2022 года и январь 2023 года - предварительные
+"
+"295","Kyrgyzstan","KG","KGZ",2023,70,NA,296,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Cambodia","KH","KHM",2020,70,NA,2768,2686,2207,1737,2286,2388,3139,2430,2471,2492,2374,2145,NA,NA,NA,NA,0,NA
+"297","Cambodia","KH","KHM",2021,70,34,2119,2264,2220,1318,1584,1451,1290,1348,1635,1653,2362,2418,NA,NA,NA,NA,0,NA
+"298","Cambodia","KH","KHM",2022,70,34,2216,2260,2386,2338,2956,3065,3221,3431,2405,2722,2766,2685,NA,NA,NA,NA,1,"For Q3 of 2022: Data is not yet completed/not yet available."
+"299","Cambodia","KH","KHM",2023,70,34,2788,2700,2802,1789,2563,2211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"300","Saint Kitts and Nevis","KN","KNA",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,NA
+"301","Saint Kitts and Nevis","KN","KNA",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,1,"2 of the cases are deceased from other pathologies apart from tuberculosis"
+"302","Saint Kitts and Nevis","KN","KNA",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,NA,1,"a case was identified in August and another is pending gene expert results but has the clinical accumen"
+"303","Saint Kitts and Nevis","KN","KNA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Lao People's Democratic Republic","LA","LAO",2020,70,34,664,509,664,347,548,809,618,720,601,550,802,346,NA,NA,NA,NA,0,"These monthly TB notification data are based on DHIS2 TB Tracker which has started in 2019 and is in the transition period, therefore data entry performance is around 80%. Its coverage has not been changed much during these six months, thus these data could show the trend.
+
+The drop in April probably is due to possible less access to TB diagnosis and under-reporting by the impact of Covid 19 and lockdown between April 1st and May 17th.
+
+December 2020 January and February 2021 is still preli"
+"305","Lao People's Democratic Republic","LA","LAO",2021,70,34,553,508,716,390,366,465,671,831,432,345,367,423,NA,NA,NA,NA,1,"Data source: case based TB Tracker in DHIS2, HMIS, Ministry of Health Lao PDR.
+TB - All notified TB case (new and relapse, all forms)
+
+First country lockdown in April-June 2021 and second country lockdown in September-December 2021
+The numbers were change because the districts re-enter the numbers of TB cases into system after country un lockdown. 
+
+The last number update are New and Relapse cases. The data source from TB-Tracer DHis2."
+"306","Lao People's Democratic Republic","LA","LAO",2022,70,34,438,580,666,573,1007,763,832,823,840,701,633,617,NA,NA,NA,NA,0,"TB - All notified TB Case (New and Relapse all forms) source TB tracker DHIS2"
+"307","Lao People's Democratic Republic","LA","LAO",2023,70,34,720,1019,949,611,885,491,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"308","Liberia","LR","LBR",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","Liberia","LR","LBR",2021,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2025,1991,1658,NA,1,"The Data for Q3 is incomplete, due to the wet season and bad roads network in some parts of the country. "
+"310","Liberia","LR","LBR",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","Liberia","LR","LBR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","Saint Lucia","LC","LCA",2020,70,34,1,0,1,0,0,1,3,0,0,1,1,1,NA,NA,NA,NA,0,"These are the figures to date as of 26/2/2021.  Please note the figures for January and February 2021 may be subject to change if there is late reporting."
+"313","Saint Lucia","LC","LCA",2021,70,34,0,0,1,0,0,0,2,1,0,0,0,0,NA,NA,NA,NA,0,"All reported cases are new cases.  Please note that there were no reported cases from September to December 2021. Please also note that this information may be subject to change."
+"314","Saint Lucia","LC","LCA",2022,70,34,0,1,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,"Based on all available data."
+"315","Saint Lucia","LC","LCA",2023,70,34,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"316","Lesotho","LS","LSO",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1526,917,855,1273,1,"The data is reported quarterly"
+"317","Lesotho","LS","LSO",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,994,1051,1209,1217,1,NA
+"318","Lesotho","LS","LSO",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1288,1184,1579,1547,1,NA
+"319","Lesotho","LS","LSO",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1429,NA,NA,NA,1,NA
+"320","Lithuania","LT","LTU",2020,70,NA,118,76,65,47,36,42,60,53,59,59,38,35,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"321","Lithuania","LT","LTU",2021,70,34,54,43,67,48,51,61,51,48,53,50,50,38,NA,NA,NA,NA,0,"The data are preliminary"
+"322","Lithuania","LT","LTU",2022,70,34,68,47,67,67,58,48,54,49,57,46,67,33,NA,NA,NA,NA,0,NA
+"323","Lithuania","LT","LTU",2023,70,34,93,48,59,40,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"324","Luxembourg","LU","LUX",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325","Luxembourg","LU","LUX",2021,70,34,3,4,4,2,2,1,5,4,2,NA,NA,NA,NA,NA,NA,NA,0,NA
+"326","Luxembourg","LU","LUX",2022,70,34,3,1,7,1,6,5,5,9,3,4,2,3,NA,NA,NA,NA,0,"les données peuvent encore varier et ne sont pas définitives
+
+data may still vary and are not definitive"
+"327","Luxembourg","LU","LUX",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","Latvia","LV","LVA",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Latvia","LV","LVA",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","Latvia","LV","LVA",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","Latvia","LV","LVA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","Monaco","MC","MCO",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","Monaco","MC","MCO",2021,70,34,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,0,NA
+"334","Monaco","MC","MCO",2022,70,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Aucun cas de tuberculose chez des personnes résidant à Monaco pour le début d'année 2022"
+"335","Monaco","MC","MCO",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,0,"Pulmonary tuberculosis"
+"336","Republic of Moldova","MD","MDA",2020,70,34,221,238,202,112,100,130,141,122,118,140,122,112,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"337","Republic of Moldova","MD","MDA",2021,70,34,123,191,149,184,141,207,195,175,158,155,171,210,NA,NA,NA,NA,0,NA
+"338","Republic of Moldova","MD","MDA",2022,70,34,149,166,194,179,178,212,172,163,163,162,172,208,NA,NA,NA,NA,0,NA
+"339","Republic of Moldova","MD","MDA",2023,70,34,146,140,194,171,197,157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"340","Madagascar","MG","MDG",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10376,8331,8785,11150,0,"Le nombre de cas enregistré en Q2 était souvent le plus bas par rapport au trois trimestre pendant toute l'année."
+"341","Madagascar","MG","MDG",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","Madagascar","MG","MDG",2023,70,35,3352,2874,2926,2721,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"343","Mexico","MX","MEX",2020,70,34,2178,2013,2071,1387,1118,1170,1228,1364,1464,1607,1338,1222,NA,NA,NA,NA,0,"Datos preliminares de 2020. base 31/01/21.
+Incluye todas las unidades del país."
+"344","Mexico","MX","MEX",2021,70,34,1283,1427,2068,1964,1966,2084,1876,1708,1737,1776,1770,1538,NA,NA,NA,NA,0,"Datos preliminares, aun no se realiza cierre de la base de datos. 17/01/22"
+"345","Mexico","MX","MEX",2022,70,34,1701,1776,2440,2140,2406,2323,2014,2268,2177,2150,1942,1436,NA,NA,NA,NA,0,NA
+"346","Mexico","MX","MEX",2023,70,34,2227,2059,2510,2073,2065,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"347","North Macedonia","MK","MKD",2020,70,NA,19,18,12,11,17,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"348","North Macedonia","MK","MKD",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","North Macedonia","MK","MKD",2022,70,NA,9,11,14,11,17,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"350","North Macedonia","MK","MKD",2023,70,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"351","Mali","ML","MLI",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1840,1708,1537,NA,0,"seules les données du T1 2021 sont disponibles, pour le deuxième trimestre le rapport est bouclé mais par rapport au troisième trimestre il reste encore 7 CDT qui n'ont pas encore saisie sur la plate forme DHIS2"
+"352","Mali","ML","MLI",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1833,NA,NA,NA,0,NA
+"353","Mali","ML","MLI",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","Malta","MT","MLT",2020,70,34,7,16,17,21,10,9,16,19,5,11,5,4,NA,NA,NA,NA,0,NA
+"355","Malta","MT","MLT",2021,70,34,5,7,3,6,6,7,6,6,2,2,3,4,NA,NA,NA,NA,0,NA
+"356","Malta","MT","MLT",2022,70,34,10,5,3,4,2,3,5,3,13,1,5,7,NA,NA,NA,NA,0,NA
+"357","Malta","MT","MLT",2023,70,34,3,5,10,6,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"358","Myanmar","MM","MMR",2020,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33886,21895,NA,NA,1,"Q1 - 33886 and Q2 - 21895. According to routine recording and reporting system, NTP can provided quarterly data only. As soon as COVID-19 confirmed case was detected in country on 23 March, there was a significant decline in TB case notification as a result of ACF activities suspension and COVID-19 response measures like stay home and travel restrictions. It was leading to 34% decline in case notification compared to previous year (Apr- Jun) achievement."
+"359","Myanmar","MM","MMR",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12910,19178,11129,20228,1,"Q3 and Q4 data as of 10th February 2022. Many BMUs still need to submit the reports and delays happened due to the lack of a focal person in BMUs. Data will update after compiling all the remaining areas."
+"360","Myanmar","MM","MMR",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23494,27921,31613,28616,0,"There were some remaining reporting units due to HR limitation."
+"361","Myanmar","MM","MMR",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26534,NA,NA,NA,0,NA
+"362","Montenegro","ME","MNE",2020,70,34,2,5,5,4,3,10,2,2,2,4,0,3,NA,NA,NA,NA,1,"January-June data provided by the WHO European Regional Office"
+"363","Montenegro","ME","MNE",2021,70,34,1,8,4,2,7,9,5,10,3,3,9,15,NA,NA,NA,NA,1,NA
+"364","Montenegro","ME","MNE",2022,70,34,8,4,4,6,4,4,4,9,3,8,8,5,NA,NA,NA,NA,1,NA
+"365","Montenegro","ME","MNE",2023,70,34,2,3,7,6,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"366","Mongolia","MN","MNG",2020,70,34,273,329,409,437,362,369,305,288,332,216,253,228,NA,NA,NA,NA,1,NA
+"367","Mongolia","MN","MNG",2021,70,NA,212,156,310,222,231,269,178,197,197,204,252,281,NA,NA,NA,NA,0,NA
+"368","Mongolia","MN","MNG",2022,70,34,212,176,249,271,303,241,188,199,206,250,257,246,NA,NA,NA,NA,0,NA
+"369","Mongolia","MN","MNG",2023,70,NA,250,190,262,280,303,274,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"370","Mozambique","MZ","MOZ",2020,70,34,6113,7786,11145,7184,7201,7593,7573,8551,8725,7964,9052,8204,NA,NA,NA,NA,1,NA
+"371","Mozambique","MZ","MOZ",2021,70,34,6921,7410,7419,7872,8008,8456,8284,8997,8361,8933,9352,8418,NA,NA,NA,NA,0,NA
+"372","Mozambique","MZ","MOZ",2022,70,35,7331,7986,9186,9329,9690,9675,9563,10086,10121,9255,9247,9202,NA,NA,NA,NA,0,NA
+"373","Mozambique","MZ","MOZ",2023,70,NA,7800,8854,8725,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"374","Mauritania","MR","MRT",2021,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"375","Mauritania","MR","MRT",2022,70,35,163,189,211,213,208,191,167,69,7,NA,NA,NA,NA,NA,NA,NA,1,"LES DONNÉES NE REMONTENT Pas de façon passive, c'est au cours des supervisions centrales semestrielles qu'elles sont collectées et la dernière supervision remonte au début du mois d’août.Ceci explique la baisse constatée"
+"376","Mauritania","MR","MRT",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","Mauritius","MU","MUS",2021,70,34,11,8,7,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"378","Mauritius","MU","MUS",2022,70,34,14,7,13,11,14,8,8,9,10,9,5,11,NA,NA,NA,NA,0,NA
+"379","Mauritius","MU","MUS",2023,70,34,5,11,4,7,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"380","Malawi","MW","MWI",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3317,3794,3437,3577,1,NA
+"381","Malawi","MW","MWI",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4376,4435,4896,NA,0,NA
+"382","Malawi","MW","MWI",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4715,NA,NA,NA,1,NA
+"383","Malaysia","MY","MYS",2020,70,34,2028,2067,2172,1305,1666,1748,1871,2370,1772,1598,2069,2297,NA,NA,NA,NA,0,"We usually download data by 10th for the previous months. Therefore this was the preliminary data for Feb 2021..the data may change after 10th March 2021"
+"384","Malaysia","MY","MYS",2021,70,34,1447,1431,1731,1642,1722,2028,1411,1724,1725,2207,1981,2102,NA,NA,NA,NA,1,NA
+"385","Malaysia","MY","MYS",2022,70,34,1612,1804,1576,1890,2038,2193,2634,2275,2106,2563,1955,2124,NA,NA,NA,NA,1,NA
+"386","Malaysia","MY","MYS",2023,70,NA,1697,2021,2667,1769,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"387","Namibia","NA","NAM",2020,70,34,698,649,645,522,459,524,475,427,543,586,499,510,NA,NA,NA,NA,1,"The data provided above is for TB All forms for all reporting units in Namibia.  
+
+Kindly note that, Data for 2021 is yet to be verified in at the end of the Jan-Mar 2021 quarter, therefore not provided above."
+"388","Namibia","NA","NAM",2021,70,34,482,509,603,542,527,480,445,597,668,658,751,602,NA,NA,NA,NA,1,"The Data provided above includes both DR-TB and DS-TB New and Relapse Patients (all forms), advice if that is not what is required.
+
+Figures provided above are likely to change after the thoroughly annual data verification, This processes is conducted annually."
+"389","Namibia","NA","NAM",2022,70,34,602,607,858,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"The data above may change due to the National annual TB notification data verification"
+"390","Namibia","NA","NAM",2023,70,34,741,674,874,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"391","Niger","NE","NER",2021,70,34,950,943,1190,1132,1101,1221,1028,1053,1110,1056,1035,956,NA,NA,NA,NA,1,NA
+"392","Niger","NE","NER",2022,70,34,991,1053,1256,1244,1347,1296,1193,1174,1218,1215,1165,1101,NA,NA,NA,NA,0,"Au cours du premier semestre 2022, les quatre unités TBMR ont enregistré 48 cas de tuberculose pharmacorésistante (22 cas au premier trimestre 2022 et 26 cas au second trimestre 2022).Ces cas ne sont pas inclus dans les données rapportées mensuellement ci dessus."
+"393","Niger","NE","NER",2023,70,34,1152,1216,1373,1227,1530,1193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"394","Nigeria","NG","NGA",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32289,26755,35444,41150,0,"1. The above figure is for the new and relapse only. The quarterly breakdown for All forms of TB Cases notified are as follows: Q1-33,132; Q2-27,363; Q3-36,194 and Q4-41,884.
+
+2. The country is currently cleaning the data from the states and the figure may slightly change."
+"395","Nigeria","NG","NGA",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42892,50096,54358,57260,0,NA
+"396","Nigeria","NG","NGA",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,63081,67595,75831,NA,0,NA
+"397","Nigeria","NG","NGA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","Nicaragua","NI","NIC",2020,70,34,183,201,195,142,122,109,134,146,158,208,165,123,NA,NA,NA,NA,1,"Febrero tendremos información primeros 10 días de marzo"
+"399","Nicaragua","NI","NIC",2021,70,34,148,164,159,154,151,185,165,170,127,128,164,120,NA,NA,NA,NA,1,NA
+"400","Nicaragua","NI","NIC",2022,70,34,154,181,200,169,168,187,192,185,156,188,161,161,NA,NA,NA,NA,0,NA
+"401","Nicaragua","NI","NIC",2023,70,34,191,158,178,183,167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"enero: 3 resistentes 
+febrero: 1 resistente
+marzo: 8 resistentes
+abril: 4 pacientes resistentes y 1 XDR
+mayo: 5 resistentes , 1 pre XDR "
+"402","Netherlands (Kingdom of the)","NL","NLD",2020,70,34,60,57,62,40,49,69,55,44,56,51,31,49,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"403","Netherlands (Kingdom of the)","NL","NLD",2021,70,34,44,54,60,55,62,68,67,55,72,55,47,50,NA,NA,NA,NA,0,NA
+"404","Netherlands (Kingdom of the)","NL","NLD",2022,70,34,37,54,66,48,48,54,55,64,49,53,55,54,NA,NA,NA,NA,0,NA
+"405","Netherlands (Kingdom of the)","NL","NLD",2023,70,34,52,63,57,66,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"406","Norway","NO","NOR",2020,70,NA,20,11,10,18,11,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"407","Norway","NO","NOR",2021,70,34,10,14,15,8,17,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"408","Norway","NO","NOR",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","Norway","NO","NOR",2023,70,34,17,16,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"410","Nepal","NP","NPL",2020,70,34,2258,2584,2672,1874,1775,2068,2490,2592,2027,2405,1784,1835,NA,NA,NA,NA,1,"Data for February 2021 still under reporting on HMIS. All the data reported in the system were collected form HMIS."
+"411","Nepal","NP","NPL",2021,70,34,2372,2176,2734,3369,2447,1558,2475,3334,3009,2471,2513,2828,NA,NA,NA,NA,1,NA
+"412","Nepal","NP","NPL",2022,70,34,2947,2278,3201,3766,3261,3828,3664,3336,3005,2390,2476,2643,NA,NA,NA,NA,1,NA
+"413","Nepal","NP","NPL",2023,70,NA,2521,2513,2899,3402,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"414","Pakistan","PK","PAK",2020,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,78955,49922,74170,70000,0,"Q4 data is not received and is projected."
+"415","Pakistan","PK","PAK",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,74951,78506,92279,95537,0,NA
+"416","Pakistan","PK","PAK",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,101889,112223,104442,106005,0,"Currently, the TB data is consolidated on quarterly basis in Pakistan. However, online monthly data will be available once the case based DHIS2 is rolled out in the country by the year 2023. "
+"417","Pakistan","PK","PAK",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Panama","PA","PAN",2020,70,NA,153,130,143,80,91,85,88,82,139,109,89,67,NA,NA,NA,NA,0,"Se solicito información del  mes de enero y febrero 2021 "
+"419","Panama","PA","PAN",2021,70,NA,91,106,105,120,117,131,113,133,115,111,89,96,NA,NA,NA,NA,0,"Información preliminar, los equipos que registran los datos están en atención y vacunación de pacientes COVID19  "
+"420","Panama","PA","PAN",2022,70,34,78,126,137,146,167,141,125,141,109,126,98,84,NA,NA,NA,NA,1,NA
+"421","Panama","PA","PAN",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Peru","PE","PER",2020,70,34,2880,2597,2213,1168,1127,1391,1517,1730,2060,2317,2259,2107,NA,NA,NA,NA,0,NA
+"423","Peru","PE","PER",2021,70,34,2012,1809,2084,1998,1917,2036,2163,2319,2348,2355,2362,1989,NA,NA,NA,NA,1,NA
+"424","Peru","PE","PER",2022,70,34,2059,2296,2694,2325,2307,2199,2101,2291,2563,2485,2292,1681,NA,NA,NA,NA,0,NA
+"425","Peru","PE","PER",2023,70,34,2531,2543,2789,2460,2402,1452,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"426","Philippines","PH","PHL",2020,70,35,40104,37042,28376,10489,13726,20282,20338,16938,18701,18757,17100,17605,NA,NA,NA,NA,0,"There might still be some level of underreporting especially from private physicians."
+"427","Philippines","PH","PHL",2021,70,35,24679,24663,29335,22354,23501,25733,27894,26705,25224,24386,23571,19748,NA,NA,NA,NA,1,"Jan to Sep are all units. Oct to Dec are just some units."
+"428","Philippines","PH","PHL",2022,70,35,29412,32204,40998,25236,35013,42979,34115,38115,43520,34399,31057,28132,NA,NA,NA,NA,0,"Reports are due quarterly. Jan to Sept. are all units. "
+"429","Philippines","PH","PHL",2023,70,35,43550,49173,57506,37352,43137,30912,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"430","Papua New Guinea","PG","PNG",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7307,7413,6851,6740,1,"The NTP is not able to provide the information. The national department of health is under lockdown and the M&E officers were not able to access the office to encode Q2 reports by August 06, which is the deadline for submission. In addition, reporting for drug-susceptible TB is quarterly while drug-resistant TB is semi-annual, and therefore, it is not possible to provide the requested number of notified cases by month. 
+
+Comments from WPRO: All numbers for Q1-Q4 2020 were updated on 23Mar2021"
+"431","Papua New Guinea","PG","PNG",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7420,6796,8248,6409,0,"Hazim Timimi updated numbers 2022-07-21 from numbers provided by Manami Yanagawi (WHO/WPRO) in email of 2022-07-14.
+
+Previous comment:
+We have a very low report submission of 31% in Q4,2021 compare to other Quarters of 2021, 78% for Q1, 73% for Q2 and 58% for Q3. This was because most of the BMU and provincial staffs were still on holidays for the festive period and were not able to compile reports on time which was due on the 30th January 2021.    "
+"432","Papua New Guinea","PG","PNG",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8771,8795,8689,5218,0,"For quarter 4, 2022 only 30% of TB BMUs submitted reports to NTP. "
+"433","Papua New Guinea","PG","PNG",2023,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8391,NA,NA,NA,0,"Q1, 2023 reports for DS-TB are incomplete, 7 provinces do not send reports to NTP. Among notified cases, 153 cases are DR-TB -still 12 provinces did not report yet.   "
+"434","Poland","PL","POL",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","Poland","PL","POL",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Poland","PL","POL",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","Poland","PL","POL",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","Puerto Rico","PR","PRI",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8,8,6,0,NA
+"439","Puerto Rico","PR","PRI",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,3,9,1,NA
+"440","Puerto Rico","PR","PRI",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6,4,9,1,NA
+"441","Puerto Rico","PR","PRI",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,0,NA
+"442","Democratic People's Republic of Korea","KP","PRK",2020,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19956,28689,26987,22737,0,"I have updated all quarterly data for 2020."
+"443","Democratic People's Republic of Korea","KP","PRK",2021,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18265,21823,25730,21595,0,"A total of 87,413 notified"
+"444","Democratic People's Republic of Korea","KP","PRK",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18137,24462,21970,17207,0,"The above information collected through NPO, WCO DPR Korea"
+"445","Democratic People's Republic of Korea","KP","PRK",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","Portugal","PT","PRT",2020,70,NA,152,120,128,86,100,81,91,105,83,82,66,41,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office ( data were corrected)"
+"447","Portugal","PT","PRT",2021,70,34,104,94,132,139,144,144,102,121,96,114,93,103,NA,NA,NA,NA,1,NA
+"448","Portugal","PT","PRT",2022,70,NA,110,118,161,118,134,99,101,112,137,106,97,80,NA,NA,NA,NA,1,NA
+"449","Portugal","PT","PRT",2023,70,NA,107,95,125,37,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"450","Paraguay","PY","PRY",2020,70,34,212,245,186,137,167,209,197,189,178,261,233,173,NA,NA,NA,NA,0,"Datos preliminares"
+"451","Paraguay","PY","PRY",2021,70,34,186,223,214,177,164,191,256,287,277,NA,NA,NA,NA,NA,NA,NA,1,NA
+"452","Paraguay","PY","PRY",2022,70,34,286,236,359,272,275,287,272,286,340,330,306,230,NA,NA,NA,NA,0,NA
+"453","Paraguay","PY","PRY",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","Romania","RO","ROU",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2601,1532,1735,1353,0,NA
+"455","Romania","RO","ROU",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1794,2033,2231,1560,0,NA
+"456","Romania","RO","ROU",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1987,2528,2205,2104,0,NA
+"457","Romania","RO","ROU",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2726,2416,NA,NA,0,NA
+"458","Russian Federation","RU","RUS",2020,70,34,6540,6493,6132,6344,3216,3679,4599,4057,4176,4759,3990,4346,NA,NA,NA,NA,0,NA
+"459","Russian Federation","RU","RUS",2021,70,34,3990,4659,5377,6599,4275,4833,5058,4195,3907,4786,4569,4532,NA,NA,NA,NA,1,NA
+"460","Russian Federation","RU","RUS",2022,70,34,4396,4188,4777,6101,4677,4964,5214,4735,4039,4917,4953,4176,NA,NA,NA,NA,1,NA
+"461","Russian Federation","RU","RUS",2023,70,34,4430,4580,4773,5522,4816,4120,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"462","Rwanda","RW","RWA",2021,70,34,412,380,496,462,378,523,382,356,538,385,403,463,NA,NA,NA,NA,1,NA
+"463","Rwanda","RW","RWA",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Rwanda","RW","RWA",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","Senegal","SN","SEN",2021,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3489,NA,NA,NA,1,"nous poursuivons la collecte et la consolidation des données du second trimestre "
+"466","Senegal","SN","SEN",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","Senegal","SN","SEN",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Solomon Islands","SB","SLB",2020,70,34,23,23,31,26,22,29,34,33,30,22,29,19,NA,NA,NA,NA,0,NA
+"469","Solomon Islands","SB","SLB",2021,70,34,20,28,28,33,35,33,39,36,43,26,25,19,NA,NA,NA,NA,0,NA
+"470","Solomon Islands","SB","SLB",2022,70,34,19,15,24,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"471","Solomon Islands","SB","SLB",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","Sierra Leone","SL","SLE",2020,70,NA,1654,1548,1424,756,782,1155,1275,1408,1507,1483,1427,1371,NA,NA,NA,NA,1,NA
+"473","Sierra Leone","SL","SLE",2021,70,34,1109,1447,1683,1476,1437,1466,1348,1476,1538,1628,1543,1518,NA,NA,NA,NA,1,NA
+"474","Sierra Leone","SL","SLE",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4860,4767,4517,5260,1,NA
+"475","Sierra Leone","SL","SLE",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5653,NA,NA,NA,0,NA
+"476","El Salvador","SV","SLV",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,787,368,362,520,0,"Los casos de tuberculosis nuevos más recaídas están reportados por TRIMESTRES para el año 2020, los cuales aún son datos preliminares para los períodos reportados."
+"477","El Salvador","SV","SLV",2021,70,34,176,167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Para el año 2020 los datos notificados son por TRIMESTRES. Los años están erróneos? Deberían ser año 2020 y año 2021... es correcto? Porqué se solicitan datos del año 2022?
+-----
+Hazim Timimi (OMS) suprimió las notificaciones trimestrales de 2020 (785, 372, 366, 516) y trasladó enero/febrero de 2022 a 2021. Envió un correo electrónico 2021-10-20 solicitando notificaciones hasta finales de septiembre de 2021."
+"478","El Salvador","SV","SLV",2022,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,395,487,646,NA,0,"Pendiente la notificación de Unidades del ISSS."
+"479","El Salvador","SV","SLV",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","San Marino","SM","SMR",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","San Marino","SM","SMR",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","San Marino","SM","SMR",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","San Marino","SM","SMR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","Serbia","RS","SRB",2020,70,NA,35,27,11,6,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"485","Serbia","RS","SRB",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Serbia","RS","SRB",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","Serbia","RS","SRB",2023,70,34,32,29,45,40,26,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"488","South Sudan","SS","SSD",2021,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9907,11250,15875,12550,1,NA
+"489","South Sudan","SS","SSD",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4767,4846,5286,NA,0,NA
+"490","South Sudan","SS","SSD",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Sao Tome and Principe","ST","STP",2021,70,NA,8,10,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"492","Sao Tome and Principe","ST","STP",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,35,NA,NA,1,NA
+"493","Sao Tome and Principe","ST","STP",2023,70,34,12,3,15,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"494","Suriname","SR","SUR",2020,70,34,12,8,5,8,16,3,7,14,14,10,8,3,NA,NA,NA,NA,1,NA
+"495","Suriname","SR","SUR",2021,70,34,12,4,7,8,10,7,7,3,11,NA,NA,NA,NA,NA,NA,NA,0,NA
+"496","Suriname","SR","SUR",2022,70,34,6,8,13,7,12,12,8,14,15,8,10,13,NA,NA,NA,NA,1,NA
+"497","Suriname","SR","SUR",2023,70,34,11,12,17,4,9,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"498","Slovakia","SK","SVK",2020,70,NA,8,1,16,8,5,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"January-June data provided by the WHO European Regional Office"
+"499","Slovakia","SK","SVK",2021,70,34,4,4,9,9,4,11,8,9,14,20,22,26,NA,NA,NA,NA,0,NA
+"500","Slovakia","SK","SVK",2022,70,34,8,7,8,10,11,14,8,8,14,14,18,17,NA,NA,NA,NA,0,NA
+"501","Slovakia","SK","SVK",2023,70,34,8,11,13,10,12,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"502","Slovenia","SI","SVN",2020,70,34,10,6,2,9,3,4,7,9,3,7,9,7,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"503","Slovenia","SI","SVN",2021,70,34,5,3,13,7,7,6,6,10,4,5,7,7,NA,NA,NA,NA,0,NA
+"504","Slovenia","SI","SVN",2022,70,34,3,6,4,8,9,9,4,7,7,8,7,3,NA,NA,NA,NA,0,NA
+"505","Slovenia","SI","SVN",2023,70,34,6,8,8,8,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"506","Sweden","SE","SWE",2020,70,NA,28,21,26,26,24,26,28,31,26,32,28,32,NA,NA,NA,NA,1,"January-June data provided by the WHO European Regional Office"
+"507","Sweden","SE","SWE",2021,70,34,32,32,32,35,30,31,34,32,25,25,23,36,NA,NA,NA,NA,1,NA
+"508","Sweden","SE","SWE",2022,70,34,32,25,36,27,37,33,32,35,29,32,37,25,NA,NA,NA,NA,1,NA
+"509","Sweden","SE","SWE",2023,70,34,30,35,33,26,31,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"510","Eswatini","SZ","SWZ",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,473,502,526,460,1,NA
+"511","Eswatini","SZ","SWZ",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,531,530,697,542,1,NA
+"512","Eswatini","SZ","SWZ",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,498,NA,NA,NA,1,NA
+"513","Sint Maarten (Dutch part)","SX","SXM",2020,70,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,NA
+"514","Sint Maarten (Dutch part)","SX","SXM",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA
+"515","Sint Maarten (Dutch part)","SX","SXM",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Seychelles","SC","SYC",2021,70,34,0,2,1,1,1,1,1,0,1,1,0,1,NA,NA,NA,NA,1,NA
+"517","Seychelles","SC","SYC",2022,70,34,0,1,1,0,3,2,2,3,1,0,1,2,NA,NA,NA,NA,0,NA
+"518","Seychelles","SC","SYC",2023,70,34,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","Chad","TD","TCD",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3135,3401,3340,3556,1,"Données Q4, 5 CDT n'ont pas envoye leurs rapports"
+"520","Chad","TD","TCD",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3865,3712,3352,3764,0,NA
+"521","Chad","TD","TCD",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","Togo","TG","TGO",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,645,609,551,616,0,NA
+"523","Togo","TG","TGO",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,695,711,803,842,0,NA
+"524","Togo","TG","TGO",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,819,NA,NA,NA,0,NA
+"525","Thailand","TH","THA",2020,70,34,8133,7639,8770,7177,6956,7266,7270,7598,7988,7080,6794,7089,NA,NA,NA,NA,0,"The data were collected from both the NTIP program and report of the private or non MoPH health facilities. "
+"526","Thailand","TH","THA",2021,70,34,6251,5656,7557,6002,5472,5830,4792,4552,5011,5400,5294,4883,NA,NA,NA,NA,0,"The data was extracted from the National TB Information Program (์NTIP) on January 25, 2022."
+"527","Thailand","TH","THA",2022,70,34,5918,5568,6008,5178,5916,6428,5492,6775,6866,5695,6414,5666,NA,NA,NA,NA,0,"We extracted the TB data from the National TB Information Program on January 25, 2023."
+"528","Thailand","TH","THA",2023,70,34,6841,6325,7203,5617,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Extracted TB data from NTIP on May 18, 2023."
+"529","Tajikistan","TJ","TJK",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1340,996,976,835,0,"January-June data provided by the WHO European Regional Office
+Представленные данные являются верифицированные, то есть окончательные данные за 2020 год."
+"530","Tajikistan","TJ","TJK",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Tajikistan","TJ","TJK",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","Tajikistan","TJ","TJK",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Turkmenistan","TM","TKM",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","Turkmenistan","TM","TKM",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","Turkmenistan","TM","TKM",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","Turkmenistan","TM","TKM",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","Timor-Leste","TL","TLS",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,927,635,807,856,0,"Updated 2021-07-01 by Hazim Timimi (WHO/Geneva) based on feedback remarks made during the 2021 data collection round. Previously the numbers were 445, 348, 382 and 386, i.e. significantly lower than the final figures"
+"538","Timor-Leste","TL","TLS",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,841,563,761,990,1,NA
+"539","Timor-Leste","TL","TLS",2022,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1273,1365,1437,1295,1,NA
+"540","Timor-Leste","TL","TLS",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1356,NA,NA,NA,1,NA
+"541","Trinidad and Tobago","TT","TTO",2020,70,34,14,16,9,20,11,28,25,23,18,30,14,15,NA,NA,NA,NA,1,"Previous lost to follow up patients not included. Proportion of clinically diagnosed TB cases increased due to non-availability of nucleic acid amplification tests (Xpert MTB-Rif) since middle of 2020. (Cartridges were not available and the machine has been reallocated to test COVID-19 samples). "
+"542","Trinidad and Tobago","TT","TTO",2021,70,34,16,6,24,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"543","Trinidad and Tobago","TT","TTO",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","Türkiye","TR","TUR",2020,70,34,864,901,958,550,462,875,825,695,737,706,665,723,NA,NA,NA,NA,0,"Provisional January-December data provided by national TB surveillance system."
+"545","Türkiye","TR","TUR",2021,70,34,552,709,893,853,693,878,704,744,794,712,780,824,NA,NA,NA,NA,0,NA
+"546","Türkiye","TR","TUR",2022,70,34,720,688,841,920,747,996,672,923,853,815,814,803,NA,NA,NA,NA,0,NA
+"547","Türkiye","TR","TUR",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","United Republic of Tanzania","TZ","TZA",2020,70,NA,6583,7243,8755,6292,6295,7606,6940,7340,8067,6346,6643,6576,NA,NA,NA,NA,0,"January 2021 data entry is going on."
+"549","United Republic of Tanzania","TZ","TZA",2021,70,34,5689,6032,7801,6136,6806,7939,6690,7683,8661,6719,8138,7232,NA,NA,NA,NA,0,"The data for the last 3 months may change as data entry for remote facilities is still going on."
+"550","United Republic of Tanzania","TZ","TZA",2022,70,34,6580,6710,10997,8616,8932,9511,8282,9070,9045,7202,7686,7121,NA,NA,NA,NA,0,NA
+"551","United Republic of Tanzania","TZ","TZA",2023,70,34,7384,7677,10044,6481,7839,5860,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"552","Uganda","UG","UGA",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16399,12871,15798,15694,1,"Data for 2021 will only be available after April 28"
+"553","Uganda","UG","UGA",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18293,19217,18983,18242,0,"Data reported is from 94.6% of the expected reporting Health Facilities. Over the years, the Quarter of Oct-Dec has been characterized by reduction in cases notified (Seasonality)"
+"554","Uganda","UG","UGA",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23428,22955,24811,23056,0,"Notifications increased due to a Nation-wide Community Awareness Screening, testing and Treatment (CAST TB) Campaign implemented in March and September 2022.
+
+Reporting rate for Jan-Mar 2022 was 93.5%, Apr-Jun 2022 is 95.8%, Jul-Sep 2022 93.4%, Oct-Dec 2022 98.5%"
+"555","Uganda","UG","UGA",2023,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22588,NA,NA,NA,0,NA
+"556","Ukraine","UA","UKR",2020,70,NA,2026,2050,2001,1301,1057,1238,1601,1246,1357,1277,1110,1274,NA,NA,NA,NA,0,"January-June data provided by the WHO European Regional Office"
+"557","Ukraine","UA","UKR",2021,70,NA,1317,1480,1665,1567,1324,1579,1676,1510,1425,1456,1441,1540,NA,NA,NA,NA,0,NA
+"558","Ukraine","UA","UKR",2022,70,34,1453,1713,1475,1532,1689,1653,1578,1647,1392,1263,1456,1339,NA,NA,NA,NA,0,NA
+"559","Ukraine","UA","UKR",2023,70,34,1753,1786,1979,1651,1785,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"560","Uruguay","UY","URY",2020,70,34,106,77,86,43,57,61,101,95,75,79,95,91,NA,NA,NA,NA,0,"Las cifras corresponden al 23/2/2021"
+"561","Uruguay","UY","URY",2021,70,34,60,52,77,34,47,84,106,93,93,NA,NA,NA,NA,NA,NA,NA,0,NA
+"562","Uruguay","UY","URY",2022,70,34,79,62,95,85,81,65,112,119,101,99,110,97,NA,NA,NA,NA,0,NA
+"563","Uruguay","UY","URY",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","United States of America","US","USA",2020,70,34,507,600,625,519,510,602,589,539,552,642,539,939,NA,NA,NA,NA,1,"Data for 2020 is provisional and subject to change.  Data for 2021 is not available for all areas and is unreliable.  As a result, this information is not included."
+"565","United States of America","US","USA",2021,70,34,350,454,562,545,524,563,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"566","United States of America","US","USA",2022,70,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"Email from Robert Pratt 2022-12-20: We are unable to provide accurate monthly or quarterly data for 2022 because of issues in transitioning to our new data collection tool.  "
+"567","Uzbekistan","UZ","UZB",2020,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","Uzbekistan","UZ","UZB",2021,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","Uzbekistan","UZ","UZB",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3578,NA,NA,NA,0,NA
+"570","Uzbekistan","UZ","UZB",2023,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","Saint Vincent and the Grenadines","VC","VCT",2020,70,34,0,0,1,1,1,1,3,0,0,2,1,3,NA,NA,NA,NA,0,NA
+"572","Saint Vincent and the Grenadines","VC","VCT",2021,70,34,0,0,0,1,1,0,0,0,0,1,1,0,NA,NA,NA,NA,0,NA
+"573","Saint Vincent and the Grenadines","VC","VCT",2022,70,34,1,0,0,0,0,1,0,0,0,3,0,0,NA,NA,NA,NA,0,NA
+"574","Saint Vincent and the Grenadines","VC","VCT",2023,70,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"575","Venezuela (Bolivarian Republic of)","VE","VEN",2020,70,34,971,879,793,506,629,893,737,649,672,847,819,918,NA,NA,NA,NA,0,"Durante el 2020 todas las unidades notificaron los datos pueden variar debido al retraso en el envio de la informacion, para el 2021 solo 12 unidades han notificado informacion hasta la fecha."
+"576","Venezuela (Bolivarian Republic of)","VE","VEN",2021,70,35,813,876,768,636,638,737,906,762,825,815,757,813,NA,NA,NA,NA,0,"En la actualidad los estados con municipios muy distantes (3 entidades) no han recolectado toda la data del 2021, faltaria informacion del ultimo trimestre."
+"577","Venezuela (Bolivarian Republic of)","VE","VEN",2022,70,35,836,774,975,907,920,859,897,866,765,735,765,521,NA,NA,NA,NA,0,"Para los mese de diciembre y enero no han notificado todas las unidades"
+"578","Venezuela (Bolivarian Republic of)","VE","VEN",2023,70,35,836,824,984,710,937,699,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,"Los ultimos 2 meses falta consolidar algunos municipios foraneos"
+"579","Viet Nam","VN","VNM",2020,70,34,7221,7657,8195,6070,7730,8540,9451,7911,7983,8268,8106,8191,NA,NA,NA,NA,1,NA
+"580","Viet Nam","VN","VNM",2021,70,35,8767,5065,8659,8024,6896,5525,4057,2692,3134,4966,5652,5268,NA,NA,NA,NA,0,NA
+"581","Viet Nam","VN","VNM",2022,70,34,6271,5652,7983,8213,9924,9927,8965,9388,8336,8306,8133,7540,NA,NA,NA,NA,1,"The data is not fully completed yet"
+"582","Viet Nam","VN","VNM",2023,70,NA,6097,7675,9179,8302,7783,8170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"583","South Africa","ZA","ZAF",2020,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,63051,38534,41165,48490,0,"Revised data provided by Sicelo Dlamini by email 2021-09-07."
+"584","South Africa","ZA","ZAF",2021,71,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55207,33539,36199,43658,0,"Taken from powerpoint slide produced by S'celo Dlamini and emailed by Nkateko Mkhondo  2022-03-03"
+"585","South Africa","ZA","ZAF",2022,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","South Africa","ZA","ZAF",2023,70,34,16325,14246,14661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"April data are not available as yet. It should also be noted that there is a possible update of these information soon."
+"587","Zambia","ZM","ZMB",2020,70,NA,3073,3248,3324,2646,2540,2631,3039,3555,3861,3997,4025,4089,NA,NA,NA,NA,0,NA
+"588","Zambia","ZM","ZMB",2021,70,34,3696,3611,4728,4061,3574,4061,3616,3873,4514,4387,5059,4470,NA,NA,NA,NA,0,NA
+"589","Zambia","ZM","ZMB",2022,70,34,3998,4252,5060,4714,4373,4283,4619,5143,5611,4457,5171,4535,NA,NA,NA,NA,0,NA
+"590","Zambia","ZM","ZMB",2023,70,NA,4162,4373,5554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"591","Zimbabwe","ZW","ZWE",2020,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4992,3365,3296,NA,1,"The programme collects the information on quarterly basis. We are only able to provide quarterly data.
+1 st Quarter 2020 = 4891 New and relapsed cases ( Bacteriologically Confirmed, pulmonary clinically diagnosed and extra-pulmonary) (Total notifications for all  forms of TB = 4988)
+
+2nd Quarter 2020  - 3075  New and relapsed cases ( Bacteriologically Confirmed, pulmonary clinically diagnosed and extra-pulmonary) (total notifications for all  forms of TB = 3138)
+"
+"592","Zimbabwe","ZW","ZWE",2021,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3687,4122,2842,NA,1,"The reporting rate is at 79% we will update special 1st week of November 2021 
+"
+"593","Zimbabwe","ZW","ZWE",2022,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4518,4252,4347,4688,0,NA
+"594","Zimbabwe","ZW","ZWE",2023,71,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4563,NA,NA,NA,0,NA

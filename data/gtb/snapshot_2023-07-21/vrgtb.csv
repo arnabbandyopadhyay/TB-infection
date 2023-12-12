@@ -1,0 +1,174 @@
+"","country","iso2","iso3","year","total.deaths.vr","r00.r99.deaths.vr","tbdeaths.vr","remarks"
+"1","Albania","AL","ALB",2020,NA,NA,13,NA
+"2","Albania","AL","ALB",2021,NA,NA,9,NA
+"3","Albania","AL","ALB",2022,NA,NA,12,NA
+"4","Andorra","AD","AND",2018,NA,NA,0,NA
+"5","Andorra","AD","AND",2019,NA,NA,1,"Debido a la pandemia por coronavirus, en este momento aun no se dispone de los datos sobre defunciones de 2019."
+"6","Andorra","AD","AND",2020,NA,NA,0,NA
+"7","Andorra","AD","AND",2021,NA,NA,0,NA
+"8","Armenia","AM","ARM",2018,NA,NA,51,NA
+"9","Armenia","AM","ARM",2019,NA,NA,54,NA
+"10","Azerbaijan","AZ","AZE",2018,NA,NA,446,NA
+"11","Azerbaijan","AZ","AZE",2019,55916,1687,440,NA
+"12","Azerbaijan","AZ","AZE",2020,75647,NA,430,NA
+"13","Azerbaijan","AZ","AZE",2022,60810,1825,392,NA
+"14","Belgium","BE","BEL",2018,NA,NA,18,"tb cause specific mortality: latest available 2016 (selection: ICD10 A15-A19)"
+"15","Belgium","BE","BEL",2019,109629,6764,26,"VR.1 latest available 2017
+VR.2 latest available 2017
+VR.3 tb cause specific mortality: latest available 2017 (selection ICD-10 A15-A19"
+"16","Belgium","BE","BEL",2020,110645,7739,27,"VR.1 latest (coherent) available 2018
+VR.2 latest (coherent) available 2018
+VR.3 latest (coherent) available 2018 (selection: ICD-10 A15-A19"
+"17","Belgium","BE","BEL",2021,108745,8410,39,"figures for year 2019 (latest available)"
+"18","Bulgaria","BG","BGR",2018,NA,NA,23,NA
+"19","Bulgaria","BG","BGR",2019,NA,NA,13,NA
+"20","Bulgaria","BG","BGR",2020,NA,NA,18,NA
+"21","Bulgaria","BG","BGR",2021,NA,NA,15,NA
+"22","Bulgaria","BG","BGR",2022,NA,NA,14,NA
+"23","Bosnia and Herzegovina","BA","BIH",2019,NA,NA,20,"Data provided in VR.3 refers to FBIH only. Data is still not available for RS. "
+"24","Bosnia and Herzegovina","BA","BIH",2020,NA,NA,19,"Number provided in VR.3 refers to FBIH."
+"25","Belarus","BY","BLR",2018,NA,NA,242,NA
+"26","Belarus","BY","BLR",2019,120470,5284,211,NA
+"27","Belarus","BY","BLR",2020,NA,NA,116,NA
+"28","Belarus","BY","BLR",2021,NA,NA,109,NA
+"29","Belarus","BY","BLR",2022,NA,NA,97,NA
+"30","Brazil","BR","BRA",2020,1556824,90345,5119,"Data in email from Daniele Pelissari 2023-07-17"
+"31","Brazil","BR","BRA",2021,1832649,94134,8887,"Data in email from Daniele Pelissari 2023-07-17"
+"32","Brazil","BR","BRA",2022,1480683,91898,7304,"Data in email from Daniele Pelissari 2023-07-17"
+"33","Czechia","CZ","CZE",2018,NA,NA,37,NA
+"34","Czechia","CZ","CZE",2019,112362,1931,20,NA
+"35","Czechia","CZ","CZE",2020,129289,2736,22,NA
+"36","Czechia","CZ","CZE",2021,139891,3061,34,NA
+"37","Czechia","CZ","CZE",2022,120219,3097,17,NA
+"38","Germany","DE","DEU",2022,1066300,NA,109,NA
+"39","Denmark","DK","DNK",2019,NA,NA,12,"VR.3 number of deaths with/from TB based on national surveillance register"
+"40","Estonia","EE","EST",2018,NA,NA,13,NA
+"41","Estonia","EE","EST",2019,15198,257,16,"Vital registration system includes codes A15-A19 plus B90"
+"42","Estonia","EE","EST",2020,15684,236,9,"Data source: Estonian Causes of Death Register, VR.3 -TB deaths include codes A15-A19 and B90"
+"43","Estonia","EE","EST",2021,18343,256,13,"Data of 2021 deaths is preliminary form Estonian Causes of Death Registry."
+"44","Estonia","EE","EST",2022,17140,236,10,"2022 data of deaths is preliminary, data will be published on 07 June 2023"
+"45","France","FR","FRA",2018,NA,NA,431,"2015 data"
+"46","France","FR","FRA",2020,NA,NA,389,"2016 data. "
+"47","France","FR","FRA",2021,401,NA,401,"2017 data"
+"48","United Kingdom of Great Britain and Northern Ireland","GB","GBR",2018,NA,NA,191,NA
+"49","Georgia","GE","GEO",2018,NA,NA,89,NA
+"50","Georgia","GE","GEO",2019,NA,NA,76,NA
+"51","Georgia","GE","GEO",2020,50537,6489,72,NA
+"52","Georgia","GE","GEO",2021,59906,7348,56,"Number of deaths registered by the vital registration system of our country is not available until 1 July."
+"53","Georgia","GE","GEO",2022,49118,14027,44,NA
+"54","Greenland","GL","GRL",2018,NA,NA,0,"3 patients died with tuberculosis"
+"55","Greenland","GL","GRL",2021,525,NA,1,"Data still incomplete."
+"56","Ireland","IE","IRL",2018,NA,NA,28,NA
+"57","Ireland","IE","IRL",2019,NA,NA,8,NA
+"58","Ireland","IE","IRL",2020,NA,NA,13,"Number of TB deaths registered in 2020 are taken from the CSO Irish Vital Statistics Q4 report and are based on the ICD 10 codes A15-A19 and B90"
+"59","Israel","IL","ISR",2018,NA,NA,13,NA
+"60","Israel","IL","ISR",2019,NA,NA,14,NA
+"61","Israel","IL","ISR",2020,NA,NA,12,NA
+"62","Israel","IL","ISR",2021,NA,NA,13,NA
+"63","Israel","IL","ISR",2022,12,NA,12,NA
+"64","Kazakhstan","KZ","KAZ",2018,NA,NA,445,NA
+"65","Kazakhstan","KZ","KAZ",2019,133128,NA,378,"VR.1 added by Hazim Timimi (WHO/Geneva) on 2023-07-06 based on data in https://stat.gov.kz/  emailed by Elena Arbuzova on 2023-06-29."
+"66","Kazakhstan","KZ","KAZ",2020,161333,NA,364,"VR.1 added by Hazim Timimi (WHO/Geneva) on 2023-07-06 based on data in https://stat.gov.kz/  emailed by Elena Arbuzova on 2023-06-29."
+"67","Kazakhstan","KZ","KAZ",2021,182403,NA,325,"VR.1 added by Hazim Timimi (WHO/Geneva) on 2023-07-06 based on data in https://stat.gov.kz/  emailed by Elena Arbuzova on 2023-06-29."
+"68","Kazakhstan","KZ","KAZ",2022,133523,NA,289,NA
+"69","Kyrgyzstan","KG","KGZ",2018,NA,NA,294,NA
+"70","Kyrgyzstan","KG","KGZ",2019,NA,NA,253,NA
+"71","Kyrgyzstan","KG","KGZ",2020,NA,277,259,NA
+"72","Kyrgyzstan","KG","KGZ",2021,NA,NA,226,NA
+"73","Kyrgyzstan","KG","KGZ",2022,NA,NA,176,"Данные из Нац.комстата по вопросам VR1 VR2 будут доступны в конце мая 2023 г"
+"74","Lithuania","LT","LTU",2018,NA,NA,77,NA
+"75","Lithuania","LT","LTU",2019,73,NA,73,"Question VR.1 73 is the total number of deaths registered by the vital registration system of your country, without codes in R00-R99 "
+"76","Lithuania","LT","LTU",2020,62,NA,62,NA
+"77","Lithuania","LT","LTU",2021,47746,715,65,NA
+"78","Luxembourg","LU","LUX",2018,NA,NA,0,NA
+"79","Luxembourg","LU","LUX",2019,0,0,0,NA
+"80","Luxembourg","LU","LUX",2020,0,0,0,NA
+"81","Luxembourg","LU","LUX",2021,0,0,0,NA
+"82","Luxembourg","LU","LUX",2022,0,0,0,NA
+"83","Latvia","LV","LVA",2018,NA,NA,49,NA
+"84","Latvia","LV","LVA",2019,NA,NA,15,NA
+"85","Monaco","MC","MCO",2021,0,0,0,NA
+"86","Republic of Moldova","MD","MDA",2018,NA,NA,304,NA
+"87","Republic of Moldova","MD","MDA",2019,36769,318,248,NA
+"88","Republic of Moldova","MD","MDA",2020,40466,40466,209,NA
+"89","Republic of Moldova","MD","MDA",2021,45437,45437,199,NA
+"90","Republic of Moldova","MD","MDA",2022,36554,36554,209,NA
+"91","North Macedonia","MK","MKD",2018,NA,NA,13,NA
+"92","North Macedonia","MK","MKD",2021,NA,NA,11,NA
+"93","North Macedonia","MK","MKD",2022,NA,NA,5,NA
+"94","Montenegro","ME","MNE",2018,NA,NA,6,NA
+"95","Montenegro","ME","MNE",2019,NA,NA,3,NA
+"96","Montenegro","ME","MNE",2020,NA,NA,3,NA
+"97","Montenegro","ME","MNE",2021,NA,NA,3,NA
+"98","Montenegro","ME","MNE",2022,NA,NA,1,NA
+"99","Netherlands (Kingdom of the)","NL","NLD",2018,NA,NA,28,"02-07-2019: Data added "
+"100","Netherlands (Kingdom of the)","NL","NLD",2019,NA,NA,20,"May 29th: data are not available yet;
+July 9th: Number of TB deaths 2019 added"
+"101","Netherlands (Kingdom of the)","NL","NLD",2020,NA,NA,32,"May 28th: data are not available yet
+August 23th: Number of TB deaths according to vital registration system added"
+"102","Netherlands (Kingdom of the)","NL","NLD",2021,NA,NA,20,"July 2022: data added
+May 2022: data are not available yet"
+"103","Netherlands (Kingdom of the)","NL","NLD",2022,NA,NA,17,"June 30th: number of deaths 2022 added
+April 11th: data not available yet"
+"104","Poland","PL","POL",2018,NA,NA,490,NA
+"105","Poland","PL","POL",2019,414200,42633,519,"data available for 2018 "
+"106","Poland","PL","POL",2020,409709,45203,456,NA
+"107","Poland","PL","POL",2022,519517,36710,440,NA
+"108","Portugal","PT","PRT",2019,NA,NA,51,NA
+"109","Portugal","PT","PRT",2020,NA,NA,74,NA
+"110","Portugal","PT","PRT",2021,NA,NA,75,NA
+"111","Portugal","PT","PRT",2022,NA,NA,59,NA
+"112","Romania","RO","ROU",2018,NA,NA,918,NA
+"113","Romania","RO","ROU",2019,259721,NA,917,"Data will be available in July."
+"114","Romania","RO","ROU",2020,297345,NA,782,NA
+"115","Romania","RO","ROU",2021,334910,NA,825,"Data available in July-August 2022."
+"116","Romania","RO","ROU",2022,272483,NA,755,"Data will be available in July- August 2023"
+"117","Russian Federation","RU","RUS",2018,NA,NA,8617,"The data for the calculation of the estimated mortality: total deaths = 1828910; including R00…R99 = 125275"
+"118","Russian Federation","RU","RUS",2019,1798307,124940,7536,NA
+"119","Russian Federation","RU","RUS",2020,2138586,142370,6841,"The data are preliminary and when the final data become available, they will be corrected."
+"120","Russian Federation","RU","RUS",2021,2441594,137231,6313,NA
+"121","Russian Federation","RU","RUS",2022,1898644,77571,5508,NA
+"122","San Marino","SM","SMR",2018,NA,NA,0,NA
+"123","San Marino","SM","SMR",2019,251,4,0,"r99 is used only for trascription "
+"124","Serbia","RS","SRB",2018,NA,NA,14,NA
+"125","Serbia","RS","SRB",2022,110839,NA,6,NA
+"126","Slovakia","SK","SVK",2018,NA,NA,12,NA
+"127","Slovakia","SK","SVK",2020,10,5,5,NA
+"128","Slovakia","SK","SVK",2021,8,4,4,NA
+"129","Slovakia","SK","SVK",2022,6,5,6,NA
+"130","Slovenia","SI","SVN",2019,NA,NA,9,NA
+"131","Slovenia","SI","SVN",2020,NA,NA,7,NA
+"132","Slovenia","SI","SVN",2021,NA,NA,8,NA
+"133","Slovenia","SI","SVN",2022,NA,NA,4,NA
+"134","Tajikistan","TJ","TJK",2018,NA,NA,278,NA
+"135","Tajikistan","TJ","TJK",2019,NA,NA,201,"По пунктам:
+VR.1 	Общее число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, включая коды в R00-R99
+VR.2 	Число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, с кодами в R00-R99
+Данные нам не доступны."
+"136","Tajikistan","TJ","TJK",2020,NA,NA,171,"По пунктам:
+VR.1      Общее число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, включая коды в R00-R99
+VR.2      Число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, с кодами в R00-R99
+Данные нам не дост"
+"137","Tajikistan","TJ","TJK",2021,NA,NA,146,"По пунктам:
+VR.1 Общее число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, включая коды в R00-R99
+VR.2 Число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, с кодами в R00-R99
+Данные нам не доступны.  "
+"138","Tajikistan","TJ","TJK",2022,NA,NA,113,"По пунктам:
+VR.1 Общее число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, включая коды в R00-R99
+VR.2 Число смертей, зарегистрированных системой записи актов гражданского состояния вашей страны, с кодами в R00-R99
+Данные нам не доступны.  "
+"139","Turkmenistan","TM","TKM",2018,NA,NA,181,NA
+"140","Turkmenistan","TM","TKM",2019,437,437,170,NA
+"141","Turkmenistan","TM","TKM",2020,397,397,175,NA
+"142","Turkmenistan","TM","TKM",2021,474,474,176,NA
+"143","Türkiye","TR","TUR",2018,NA,NA,470,NA
+"144","Türkiye","TR","TUR",2019,435941,6626,391,NA
+"145","Ukraine","UA","UKR",2018,NA,NA,3457,NA
+"146","Ukraine","UA","UKR",2019,581114,24677,3418,NA
+"147","Ukraine","UA","UKR",2020,616835,19653,2927,NA
+"148","Ukraine","UA","UKR",2021,714236,23556,2873,NA
+"149","Ukraine","UA","UKR",2022,NA,NA,2433,"В связи с военной агрессией государтвенная служба статистики Украины не публикует данные о количестве смертей. Количество смертей от туберкулеза являються оперативными данными из єлектронной системы отчетности ТБ. "
+"150","Uzbekistan","UZ","UZB",2018,NA,NA,527,NA
+"151","Uzbekistan","UZ","UZB",2019,NA,NA,411,NA
+"152","Uzbekistan","UZ","UZB",2020,NA,NA,401,NA
+"153","Uzbekistan","UZ","UZB",2021,NA,NA,333,NA

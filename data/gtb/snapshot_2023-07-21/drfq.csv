@@ -1,0 +1,708 @@
+"","country","iso3","g.whoregion","row.rank","year","drs.record.type","all.areas.covered","area.desc","surv.quality","mdr.new","mdr.ret","mdr.unk","xpert.dr.r.new","xpert.dr.r.ret","rr.new","rr.ret","mdr.dst.rlt","mdr.ds.fq2li","mdr.dr.fq","mdr.dr.2li","xdr","rr.dst.rlt","rr.ds.fq2li","rr.dr.fq","rr.dr.2li","rr.dr.fq.2li","rr.dst.rlt.fq","rr.fqr","rr.fqr.pcnt","rr.fqr.pcnt.lo","rr.fqr.pcnt.hi","rs.hr.dst.rlt.fq","rs.hr.fqr.pcnt","rs.hr.fqr.pcnt.lo","rs.hr.fqr.pcnt.hi"
+"1","Aruba","ABW","AMR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"2","Albania","ALB","EUR",1,2010,"Surveillance",1,NA,"A",1,1,0,NA,NA,NA,NA,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Andorra","AND","EUR",1,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Andorra","AND","EUR",2,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","Andorra","AND","EUR",3,2015,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Andorra","AND","EUR",4,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Andorra","AND","EUR",5,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Andorra","AND","EUR",6,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Andorra","AND","EUR",7,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Andorra","AND","EUR",8,2009,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","United Arab Emirates","ARE","EMR",1,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"12","Armenia","ARM","EUR",1,2022,"Surveillance",1,NA,"A",33,19,NA,NA,NA,36,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,8,NA,NA,NA,NA,NA,NA,NA
+"13","Armenia","ARM","EUR",2,2021,"Surveillance",1,NA,"A",42,18,NA,NA,NA,44,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,17,NA,NA,NA,NA,NA,NA,NA
+"14","Armenia","ARM","EUR",3,2020,"Surveillance",1,NA,"A",26,23,NA,NA,NA,28,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,11,NA,NA,NA,NA,NA,NA,NA
+"15","Armenia","ARM","EUR",4,2019,"Surveillance",1,NA,"A",33,23,NA,NA,NA,38,27,22,NA,NA,NA,12,NA,NA,NA,NA,NA,63,19,NA,NA,NA,NA,NA,NA,NA
+"16","Armenia","ARM","EUR",5,2018,"Surveillance",1,NA,"N",43,33,NA,NA,NA,51,34,76,NA,NA,NA,14,85,38,18,43,14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Armenia","ARM","EUR",6,2017,"Surveillance",1,NA,"A",40,41,NA,NA,NA,51,48,81,NA,NA,NA,13,98,58,20,33,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","American Samoa","ASM","WPR",1,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"19","American Samoa","ASM","WPR",2,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"20","Australia","AUS","WPR",1,2022,"Surveillance",1,NA,"N",13,1,NA,NA,NA,17,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,4,NA,NA,NA,NA,NA,NA,NA
+"21","Australia","AUS","WPR",2,2021,"Surveillance",1,NA,"N",7,3,NA,NA,NA,9,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,1,NA,NA,NA,NA,NA,NA,NA
+"22","Australia","AUS","WPR",3,2020,"Surveillance",1,NA,"N",10,3,NA,NA,NA,14,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,8,NA,NA,NA,NA,NA,NA,NA
+"23","Australia","AUS","WPR",4,2019,"Surveillance",1,NA,"A",15,3,NA,NA,NA,17,3,6,NA,NA,NA,1,NA,NA,NA,NA,NA,19,3,NA,NA,NA,NA,NA,NA,NA
+"24","Australia","AUS","WPR",5,2018,"Surveillance",1,NA,"A",21,4,NA,NA,NA,24,4,22,NA,NA,NA,1,23,18,4,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Australia","AUS","WPR",6,2017,"Surveillance",1,NA,"A",12,6,NA,NA,NA,13,6,16,NA,NA,NA,0,17,15,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Australia","AUS","WPR",7,2015,"Surveillance",1,NA,"A",15,6,NA,0,0,NA,NA,20,17,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Australia","AUS","WPR",8,2014,"Surveillance",1,NA,"A",11,4,0,NA,NA,NA,NA,15,13,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Australia","AUS","WPR",9,2013,"Surveillance",1,NA,"A",13,1,0,0,0,NA,NA,12,9,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Australia","AUS","WPR",10,2012,"Surveillance",1,NA,"A",16,2,0,0,0,NA,NA,18,15,0,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Australia","AUS","WPR",11,2011,"Surveillance",1,NA,"A",14,7,2,0,0,NA,NA,22,20,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Australia","AUS","WPR",12,2010,"Surveillance",1,NA,"A",21,11,1,NA,NA,NA,NA,32,31,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Australia","AUS","WPR",13,2009,"Surveillance",1,NA,"A",NA,NA,31,NA,NA,NA,NA,31,29,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Australia","AUS","WPR",14,2008,"Surveillance",1,NA,"A",NA,NA,21,NA,NA,NA,NA,21,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Austria","AUT","EUR",1,2015,"Surveillance",1,NA,"A",5,2,NA,NA,NA,NA,NA,8,3,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Austria","AUT","EUR",2,2014,"Surveillance",1,NA,"A",7,7,4,NA,NA,NA,NA,18,14,2,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Austria","AUT","EUR",3,2013,"Surveillance",1,NA,"A",7,9,0,NA,NA,NA,NA,16,8,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Austria","AUT","EUR",4,2012,"Surveillance",1,NA,"A",9,9,9,NA,NA,NA,NA,27,10,14,10,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Austria","AUT","EUR",5,2011,"Surveillance",1,NA,"A",9,2,9,NA,NA,NA,NA,20,9,8,9,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Austria","AUT","EUR",6,2010,"Surveillance",1,NA,"A",5,3,8,NA,NA,NA,NA,16,8,3,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Austria","AUT","EUR",7,2009,"Surveillance",1,NA,"A",5,8,10,NA,NA,NA,NA,21,13,3,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Austria","AUT","EUR",8,2008,"Surveillance",1,NA,"A",11,4,0,NA,NA,NA,NA,15,7,3,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Azerbaijan","AZE","EUR",1,2022,"Surveillance",1,NA,"A",110,248,NA,NA,NA,199,487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,628,97,NA,NA,NA,NA,NA,NA,NA
+"43","Azerbaijan","AZE","EUR",2,2021,"Surveillance",1,NA,"A",113,276,NA,NA,NA,172,487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,592,114,NA,NA,NA,NA,NA,NA,NA
+"44","Azerbaijan","AZE","EUR",3,2020,"Surveillance",1,NA,"A",122,NA,NA,NA,NA,149,552,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,576,87,NA,NA,NA,NA,NA,NA,NA
+"45","Azerbaijan","AZE","EUR",4,2019,"Surveillance",1,NA,"A",111,303,NA,NA,NA,219,533,367,NA,NA,NA,89,NA,NA,NA,NA,NA,704,153,NA,NA,NA,NA,NA,NA,NA
+"46","Azerbaijan","AZE","EUR",5,2018,"Surveillance",1,NA,"A",160,478,NA,NA,NA,237,701,NA,NA,NA,NA,NA,864,627,148,166,77,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Azerbaijan","AZE","EUR",6,2017,"Surveillance",1,NA,"A",170,495,NA,NA,NA,245,762,NA,NA,NA,NA,NA,812,446,208,276,118,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Azerbaijan","AZE","EUR",7,2013,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,139,79,36,40,38,143,86,31,48,19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Belgium","BEL","EUR",1,2021,"Surveillance",1,NA,"N",3,2,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA
+"50","Belgium","BEL","EUR",2,2019,"Surveillance",1,NA,"N",9,3,NA,NA,NA,9,4,11,NA,NA,NA,0,NA,NA,NA,NA,NA,11,2,NA,NA,NA,NA,NA,NA,NA
+"51","Belgium","BEL","EUR",3,2018,"Surveillance",1,NA,"N",5,1,NA,NA,NA,5,1,6,NA,NA,NA,3,6,1,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Belgium","BEL","EUR",4,2015,"Surveillance",1,NA,"A",6,2,NA,NA,NA,NA,NA,11,5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Belgium","BEL","EUR",5,2014,"Surveillance",1,NA,"A",6,1,2,NA,NA,NA,NA,9,7,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","Belgium","BEL","EUR",6,2013,"Surveillance",1,NA,"A",7,1,2,NA,NA,NA,NA,10,6,4,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Belgium","BEL","EUR",7,2012,"Surveillance",1,NA,"A",8,7,5,NA,NA,NA,NA,20,12,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Belgium","BEL","EUR",8,2011,"Surveillance",1,NA,"A",7,4,4,NA,NA,NA,NA,15,7,4,7,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Belgium","BEL","EUR",9,2010,"Surveillance",1,NA,"A",10,9,0,NA,NA,NA,NA,19,8,6,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Belgium","BEL","EUR",10,2009,"Surveillance",1,NA,"A",4,3,3,NA,NA,NA,NA,10,5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Belgium","BEL","EUR",11,2008,"Surveillance",1,NA,"A",15,6,1,NA,NA,NA,NA,21,NA,4,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Benin","BEN","AFR",1,2010,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,8,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Bangladesh","BGD","SEA",1,2019,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,23,NA,NA,NA,0,28,22,6,0,0,28,NA,21.4,11.2,37.1,NA,NA,NA,NA
+"62","Bangladesh","BGD","SEA",2,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,44,74,14,0,0,46,41,6,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Bulgaria","BGR","EUR",1,2018,"Surveillance",1,NA,"A",10,14,NA,NA,NA,12,16,24,NA,NA,NA,0,28,20,5,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Bulgaria","BGR","EUR",2,2016,"Surveillance",1,NA,"A",5,14,NA,NA,NA,NA,NA,19,NA,NA,NA,0,22,18,3,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Bulgaria","BGR","EUR",3,2012,"Surveillance",1,NA,"A",16,33,0,NA,NA,NA,NA,49,42,6,6,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Bahrain","BHR","EMR",1,2017,"Surveillance",1,NA,"A",1,NA,NA,NA,NA,1,NA,0,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Bahrain","BHR","EMR",2,2016,"Surveillance",1,NA,"A",2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,2,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","Bahrain","BHR","EMR",3,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Bahamas","BHS","AMR",1,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"70","Bahamas","BHS","AMR",2,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Bahamas","BHS","AMR",3,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Bahamas","BHS","AMR",4,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Bosnia and Herzegovina","BIH","EUR",1,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","Bosnia and Herzegovina","BIH","EUR",2,2011,"Surveillance",1,NA,"A",1,4,0,0,0,NA,NA,5,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Belarus","BLR","EUR",1,2022,"Surveillance",1,NA,"A",498,142,NA,NA,NA,499,222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,721,314,NA,NA,NA,NA,NA,NA,NA
+"76","Belarus","BLR","EUR",2,2021,"Surveillance",1,NA,"A",341,354,NA,NA,NA,390,367,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,757,310,NA,NA,NA,NA,NA,NA,NA
+"77","Belarus","BLR","EUR",3,2020,"Surveillance",1,NA,"A",364,423,NA,NA,NA,401,424,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,825,354,NA,NA,NA,NA,NA,NA,NA
+"78","Belarus","BLR","EUR",4,2019,"Surveillance",1,NA,"A",503,305,NA,NA,NA,561,313,807,NA,NA,NA,185,NA,NA,NA,NA,NA,874,277,NA,NA,NA,NA,NA,NA,NA
+"79","Belarus","BLR","EUR",5,2018,"Surveillance",1,NA,"A",559,425,NA,NA,NA,559,425,984,NA,NA,NA,185,984,476,272,421,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Belarus","BLR","EUR",6,2017,"Surveillance",1,NA,"A",629,459,NA,NA,NA,649,468,1088,NA,NA,NA,343,1117,413,464,583,343,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Belarus","BLR","EUR",7,2016,"Surveillance",1,NA,"A",654,568,NA,21,1,NA,NA,1246,NA,NA,NA,572,674,632,218,396,572,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Belarus","BLR","EUR",8,2015,"Surveillance",1,NA,"A",678,597,NA,22,14,NA,NA,1275,416,643,669,453,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Belarus","BLR","EUR",9,2014,"Surveillance",1,NA,"A",667,584,0,11,11,NA,NA,1251,518,177,190,366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Belarus","BLR","EUR",10,2013,"Surveillance",1,NA,"A",755,598,NA,NA,NA,NA,NA,1353,1185,92,156,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Belarus","BLR","EUR",11,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,612,322,128,235,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Belize","BLZ","AMR",1,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"87","Belize","BLZ","AMR",2,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","Bermuda","BMU","AMR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"89","Bermuda","BMU","AMR",2,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"90","Bermuda","BMU","AMR",3,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","Bermuda","BMU","AMR",4,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Bermuda","BMU","AMR",5,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Bermuda","BMU","AMR",6,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Bermuda","BMU","AMR",7,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Bermuda","BMU","AMR",8,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","Barbados","BRB","AMR",1,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"97","Barbados","BRB","AMR",2,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","Brunei Darussalam","BRN","WPR",1,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"99","Brunei Darussalam","BRN","WPR",2,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"100","Brunei Darussalam","BRN","WPR",3,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"101","Brunei Darussalam","BRN","WPR",4,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","Brunei Darussalam","BRN","WPR",5,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","Brunei Darussalam","BRN","WPR",6,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","Brunei Darussalam","BRN","WPR",7,2015,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Brunei Darussalam","BRN","WPR",8,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","Bhutan","BTN","SEA",1,2021,"Surveillance",1,NA,"N",36,0,NA,NA,NA,44,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,3,NA,NA,NA,NA,NA,NA,NA
+"107","Bhutan","BTN","SEA",2,2019,"Surveillance",1,NA,"A",60,5,NA,NA,NA,73,5,65,NA,NA,NA,1,NA,NA,NA,NA,NA,65,6,NA,NA,NA,NA,NA,NA,NA
+"108","Bhutan","BTN","SEA",3,2018,"Surveillance",1,NA,"N",46,1,NA,NA,NA,42,2,47,NA,NA,NA,0,44,43,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Botswana","BWA","AFR",1,2008,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,24,21,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Canada","CAN","AMR",1,2021,"Surveillance",1,NA,"A",5,4,NA,NA,NA,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,NA,NA,NA,NA,NA
+"111","Canada","CAN","AMR",2,2015,"Surveillance",1,NA,"A",7,4,NA,NA,NA,NA,NA,11,8,1,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Canada","CAN","AMR",3,2014,"Surveillance",1,NA,"A",10,1,0,0,0,NA,NA,11,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Canada","CAN","AMR",4,2013,"Surveillance",1,NA,"A",12,3,0,0,0,NA,NA,15,12,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Canada","CAN","AMR",5,2012,"Surveillance",1,NA,"A",7,1,1,0,0,NA,NA,9,4,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Canada","CAN","AMR",6,2011,"Surveillance",1,NA,"A",NA,NA,19,NA,NA,NA,NA,19,16,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Canada","CAN","AMR",7,2010,"Surveillance",1,NA,"A",15,0,0,NA,NA,NA,NA,14,11,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Canada","CAN","AMR",8,2009,"Surveillance",1,NA,"A",13,2,3,NA,NA,NA,NA,18,0,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Canada","CAN","AMR",9,2008,"Surveillance",1,NA,"A",9,4,1,NA,NA,NA,NA,14,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Switzerland","CHE","EUR",1,2018,"Surveillance",1,NA,"N",3,1,NA,NA,NA,3,1,4,NA,NA,NA,1,4,3,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Switzerland","CHE","EUR",2,2015,"Surveillance",1,NA,"A",7,4,NA,0,0,NA,NA,11,7,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Switzerland","CHE","EUR",3,2014,"Surveillance",1,NA,"A",5,4,2,0,0,NA,NA,11,9,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Switzerland","CHE","EUR",4,2013,"Surveillance",1,NA,"A",3,8,1,0,0,NA,NA,12,8,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Switzerland","CHE","EUR",5,2012,"Surveillance",1,NA,"A",3,4,1,0,0,NA,NA,8,7,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Switzerland","CHE","EUR",6,2011,"Surveillance",1,NA,"A",1,4,3,0,0,NA,NA,8,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Switzerland","CHE","EUR",7,2010,"Surveillance",1,NA,"A",1,3,5,NA,NA,NA,NA,9,8,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","Switzerland","CHE","EUR",8,2008,"Surveillance",1,NA,"A",3,1,1,NA,NA,NA,NA,5,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Chile","CHL","AMR",1,2022,"Surveillance",1,NA,"N",10,6,NA,NA,NA,35,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,2,NA,NA,NA,NA,NA,NA,NA
+"128","Chile","CHL","AMR",2,2021,"Surveillance",1,NA,"A",22,4,NA,NA,NA,38,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,5,NA,NA,NA,NA,NA,NA,NA
+"129","Chile","CHL","AMR",3,2020,"Surveillance",1,NA,"A",22,3,NA,NA,NA,35,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,4,NA,NA,NA,NA,NA,NA,NA
+"130","Chile","CHL","AMR",4,2019,"Surveillance",1,NA,"A",20,7,NA,NA,NA,39,18,27,NA,NA,NA,2,NA,NA,NA,NA,NA,55,4,NA,NA,NA,NA,NA,NA,NA
+"131","Chile","CHL","AMR",5,2018,"Surveillance",1,NA,"N",26,6,NA,NA,NA,42,14,32,NA,NA,NA,0,56,51,5,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Chile","CHL","AMR",6,2017,"Surveillance",1,NA,"A",18,1,NA,NA,NA,31,6,19,NA,NA,NA,0,37,36,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","Chile","CHL","AMR",7,2015,"Surveillance",1,NA,"A",9,5,NA,0,0,NA,NA,14,11,1,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","Chile","CHL","AMR",8,2014,"Surveillance",1,NA,"A",14,1,0,0,0,NA,NA,15,13,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","China","CHN","WPR",1,2013,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,427,285,128,52,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Côte d'Ivoire","CIV","AFR",1,2017,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,48,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","Democratic Republic of the Congo","COD","AFR",1,2017,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,35,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","Cook Islands","COK","WPR",1,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Cook Islands","COK","WPR",2,2015,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Cook Islands","COK","WPR",3,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","Cook Islands","COK","WPR",4,2012,"Surveillance",1,NA,"A",0,1,0,0,0,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Comoros","COM","AFR",1,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"143","Costa Rica","CRI","AMR",1,2019,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"144","Costa Rica","CRI","AMR",2,2018,"Surveillance",1,NA,"N",3,0,NA,NA,NA,7,0,3,NA,NA,NA,0,7,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Costa Rica","CRI","AMR",3,2017,"Surveillance",1,NA,"A",4,0,NA,NA,NA,4,0,4,NA,NA,NA,0,4,3,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Cuba","CUB","AMR",1,2012,"Surveillance",1,NA,"A",2,6,0,0,0,NA,NA,8,6,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Cuba","CUB","AMR",2,2011,"Surveillance",1,NA,"A",3,7,0,0,0,NA,NA,8,4,2,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","Curaçao","CUW","AMR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"149","Curaçao","CUW","AMR",2,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","Curaçao","CUW","AMR",3,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Curaçao","CUW","AMR",4,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Curaçao","CUW","AMR",5,2013,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","Curaçao","CUW","AMR",6,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","Curaçao","CUW","AMR",7,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Curaçao","CUW","AMR",8,2010,"Surveillance",1,NA,"A",0,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","Cayman Islands","CYM","AMR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"157","Cayman Islands","CYM","AMR",2,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"158","Cayman Islands","CYM","AMR",3,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","Cayman Islands","CYM","AMR",4,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","Cayman Islands","CYM","AMR",5,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","Cayman Islands","CYM","AMR",6,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Cayman Islands","CYM","AMR",7,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Cayman Islands","CYM","AMR",8,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Cyprus","CYP","EUR",1,2022,"Surveillance",1,NA,"A",2,0,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"165","Cyprus","CYP","EUR",2,2021,"Surveillance",1,NA,"A",3,0,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA
+"166","Cyprus","CYP","EUR",3,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"167","Cyprus","CYP","EUR",4,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"168","Cyprus","CYP","EUR",5,2013,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,0,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","Cyprus","CYP","EUR",6,2011,"Surveillance",1,NA,"A",1,0,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Cyprus","CYP","EUR",7,2008,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","Czechia","CZE","EUR",1,2022,"Surveillance",1,NA,"N",15,1,NA,NA,NA,15,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,4,NA,NA,NA,NA,NA,NA,NA
+"172","Czechia","CZE","EUR",2,2018,"Surveillance",1,NA,"N",10,0,NA,NA,NA,10,0,10,NA,NA,NA,0,10,6,1,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","Czechia","CZE","EUR",3,2015,"Surveillance",1,NA,"A",7,3,NA,NA,NA,NA,NA,8,3,5,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","Czechia","CZE","EUR",4,2014,"Surveillance",1,NA,"A",3,2,0,NA,NA,NA,NA,5,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Czechia","CZE","EUR",5,2009,"Surveillance",1,NA,"A",5,3,0,NA,NA,NA,NA,7,6,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Czechia","CZE","EUR",6,2008,"Surveillance",1,NA,"A",10,1,NA,NA,NA,NA,NA,10,NA,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Germany","DEU","EUR",1,2015,"Surveillance",1,NA,"A",6,32,NA,NA,NA,NA,NA,74,47,24,14,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","Germany","DEU","EUR",2,2014,"Surveillance",1,NA,"A",8,22,53,NA,NA,NA,NA,54,33,14,16,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Djibouti","DJI","EMR",1,2015,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,32,NA,NA,NA,0,34,28,0,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","Dominica","DMA","AMR",1,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Dominica","DMA","AMR",2,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","Denmark","DNK","EUR",1,2022,"Surveillance",1,NA,"A",5,0,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA
+"183","Denmark","DNK","EUR",2,2021,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA
+"184","Denmark","DNK","EUR",3,2020,"Surveillance",1,NA,"A",1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"185","Denmark","DNK","EUR",4,2019,"Surveillance",1,NA,"A",3,0,NA,NA,NA,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA
+"186","Denmark","DNK","EUR",5,2018,"Surveillance",1,NA,"A",4,0,NA,NA,NA,4,0,4,NA,NA,NA,0,4,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Denmark","DNK","EUR",6,2017,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,1,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Denmark","DNK","EUR",7,2015,"Surveillance",1,NA,"A",4,1,NA,NA,NA,NA,NA,5,3,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Denmark","DNK","EUR",8,2014,"Surveillance",1,NA,"A",1,0,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Denmark","DNK","EUR",9,2013,"Surveillance",1,NA,"A",1,1,0,NA,NA,NA,NA,2,0,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Denmark","DNK","EUR",10,2012,"Surveillance",1,NA,"A",1,0,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","Denmark","DNK","EUR",11,2010,"Surveillance",1,NA,"A",2,0,0,NA,NA,NA,NA,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","Denmark","DNK","EUR",12,2009,"Surveillance",1,NA,"A",1,1,0,NA,NA,NA,NA,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","Denmark","DNK","EUR",13,2008,"Surveillance",1,NA,"A",0,0,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","Egypt","EGY","EMR",1,2021,"Surveillance",1,NA,"A",23,8,NA,NA,NA,75,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,2,NA,NA,NA,NA,NA,NA,NA
+"196","Egypt","EGY","EMR",2,2019,"Surveillance",1,NA,"N",7,54,NA,NA,NA,47,217,61,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"197","Eritrea","ERI","AFR",1,2019,"Surveillance",1,NA,"N",6,0,NA,NA,NA,16,1,6,NA,NA,NA,0,NA,NA,NA,NA,NA,17,0,NA,NA,NA,NA,NA,NA,NA
+"198","Eritrea","ERI","AFR",2,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,7,NA,NA,NA,0,14,7,0,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","Spain","ESP","EUR",1,2015,"Surveillance",1,NA,"A",30,10,NA,NA,NA,NA,NA,38,31,5,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","Estonia","EST","EUR",1,2022,"Surveillance",1,NA,"A",17,7,NA,NA,NA,19,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,7,NA,NA,NA,NA,NA,NA,NA
+"201","Estonia","EST","EUR",2,2021,"Surveillance",1,NA,"A",14,9,NA,NA,NA,16,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,9,NA,NA,NA,NA,NA,NA,NA
+"202","Estonia","EST","EUR",3,2020,"Surveillance",1,NA,"A",16,3,NA,NA,NA,17,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,6,NA,NA,NA,NA,NA,NA,NA
+"203","Estonia","EST","EUR",4,2019,"Surveillance",1,NA,"A",17,10,NA,NA,NA,18,11,24,NA,NA,NA,4,NA,NA,NA,NA,NA,25,4,NA,NA,NA,NA,NA,NA,NA
+"204","Estonia","EST","EUR",5,2018,"Surveillance",1,NA,"A",22,8,NA,NA,NA,23,10,30,NA,NA,NA,8,32,9,9,22,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","Estonia","EST","EUR",6,2017,"Surveillance",1,NA,"A",26,10,NA,NA,NA,26,11,34,NA,NA,NA,9,35,10,10,24,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","Estonia","EST","EUR",7,2016,"Surveillance",1,NA,"A",17,6,NA,NA,NA,NA,NA,23,NA,NA,NA,7,25,7,7,18,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Estonia","EST","EUR",8,2015,"Surveillance",1,NA,"A",18,18,NA,NA,NA,NA,NA,35,7,13,23,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Estonia","EST","EUR",9,2014,"Surveillance",1,NA,"A",30,18,0,NA,NA,NA,NA,47,20,13,20,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Estonia","EST","EUR",10,2013,"Surveillance",1,NA,"A",29,21,0,NA,NA,NA,NA,49,24,19,14,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","Estonia","EST","EUR",11,2012,"Surveillance",1,NA,"A",38,23,0,NA,NA,NA,NA,55,37,12,10,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Estonia","EST","EUR",12,2011,"Surveillance",1,NA,"A",48,30,0,NA,NA,NA,NA,75,37,21,32,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","Estonia","EST","EUR",13,2010,"Surveillance",1,NA,"A",36,28,0,NA,NA,NA,NA,63,23,16,34,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","Estonia","EST","EUR",14,2009,"Surveillance",1,NA,"A",54,31,0,NA,NA,NA,NA,79,47,21,19,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","Estonia","EST","EUR",15,2008,"Surveillance",1,NA,"A",42,32,NA,NA,NA,NA,NA,72,NA,22,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Ethiopia","ETH","AFR",1,2018,"Surveillance",1,NA,"A",21,48,NA,NA,NA,257,484,69,NA,NA,NA,2,409,376,26,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","Ethiopia","ETH","AFR",2,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,35,NA,NA,NA,0,37,31,1,5,0,37,NA,2.7,0.07,14.1,98,1.02,0.02,5.5
+"217","Finland","FIN","EUR",1,2022,"Surveillance",1,NA,"N",7,1,NA,NA,NA,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,3,NA,NA,NA,NA,NA,NA,NA
+"218","Finland","FIN","EUR",2,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"219","Finland","FIN","EUR",3,2018,"Surveillance",1,NA,"N",4,0,NA,NA,NA,4,0,4,NA,NA,NA,1,4,2,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Finland","FIN","EUR",4,2017,"Surveillance",1,NA,"A",4,1,NA,NA,NA,4,2,5,NA,NA,NA,1,6,3,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Finland","FIN","EUR",5,2016,"Surveillance",1,NA,"A",2,0,NA,NA,NA,NA,NA,3,NA,NA,NA,1,3,2,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","Finland","FIN","EUR",6,2015,"Surveillance",1,NA,"A",7,0,NA,NA,NA,NA,NA,8,5,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","Finland","FIN","EUR",7,2014,"Surveillance",1,NA,"A",4,1,0,NA,NA,NA,NA,5,4,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Finland","FIN","EUR",8,2013,"Surveillance",1,NA,"A",2,0,0,NA,NA,NA,NA,2,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","Finland","FIN","EUR",9,2012,"Surveillance",1,NA,"A",3,0,0,NA,NA,NA,NA,3,1,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","Fiji","FJI","WPR",1,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"227","Fiji","FJI","WPR",2,2019,"Surveillance",1,NA,"A",NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,0,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"228","Fiji","FJI","WPR",3,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","Fiji","FJI","WPR",4,2017,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,1,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","France","FRA","EUR",1,2014,"Surveillance",1,NA,"A",25,30,17,NA,NA,NA,NA,70,21,32,28,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","Micronesia (Federated States of)","FSM","WPR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"232","Micronesia (Federated States of)","FSM","WPR",2,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"233","Micronesia (Federated States of)","FSM","WPR",3,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"234","Micronesia (Federated States of)","FSM","WPR",4,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"235","Micronesia (Federated States of)","FSM","WPR",5,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",1,2021,"Surveillance",1,NA,"N",29,4,NA,NA,NA,33,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,13,NA,NA,NA,NA,NA,NA,NA
+"237","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",2,2020,"Surveillance",1,NA,"N",23,2,NA,NA,NA,31,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,8,NA,NA,NA,NA,NA,NA,NA
+"238","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",3,2019,"Surveillance",1,NA,"A",22,3,NA,NA,NA,27,4,23,NA,NA,NA,1,NA,NA,NA,NA,NA,29,5,NA,NA,NA,NA,NA,NA,NA
+"239","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",4,2017,"Surveillance",1,NA,"A",24,4,NA,NA,NA,28,6,27,NA,NA,NA,3,31,21,10,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",5,2015,"Surveillance",1,NA,"A",27,5,NA,NA,NA,NA,NA,33,18,13,12,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",6,2014,"Surveillance",1,NA,"A",29,6,2,NA,NA,NA,NA,36,20,11,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",7,2013,"Surveillance",1,NA,"A",36,7,3,NA,NA,NA,NA,43,31,5,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",8,2012,"Surveillance",1,NA,"A",62,14,5,NA,NA,NA,NA,80,62,4,16,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",9,2011,"Surveillance",1,NA,"A",66,13,5,NA,NA,NA,NA,81,52,20,15,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",10,2009,"Surveillance",1,NA,"A",41,11,10,NA,NA,NA,NA,55,48,5,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","United Kingdom of Great Britain and Northern Ireland","GBR","EUR",11,2008,"pre-2010 TME data collection",1,NA,"A",38,7,8,NA,NA,NA,NA,45,NA,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","Georgia","GEO","EUR",1,2022,"Surveillance",1,NA,"A",90,53,NA,NA,NA,105,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,145,55,NA,NA,NA,NA,NA,NA,NA
+"248","Georgia","GEO","EUR",2,2021,"Surveillance",1,NA,"A",84,62,NA,NA,NA,101,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,148,37,NA,NA,NA,NA,NA,NA,NA
+"249","Georgia","GEO","EUR",3,2020,"Surveillance",1,NA,"A",100,65,NA,NA,NA,114,77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,173,50,NA,NA,NA,NA,NA,NA,NA
+"250","Georgia","GEO","EUR",4,2019,"Surveillance",1,NA,"A",121,108,NA,NA,NA,165,139,203,NA,NA,NA,31,NA,NA,NA,NA,NA,242,65,NA,NA,NA,NA,NA,NA,NA
+"251","Georgia","GEO","EUR",5,2018,"Surveillance",1,NA,"A",93,74,NA,NA,NA,160,137,159,NA,NA,NA,34,211,76,75,109,49,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","Georgia","GEO","EUR",6,2017,"Surveillance",1,NA,"A",129,133,NA,NA,NA,163,161,246,NA,NA,NA,44,266,117,93,102,46,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","Georgia","GEO","EUR",7,2016,"Surveillance",1,NA,"A",142,154,NA,20,33,NA,NA,296,NA,NA,NA,52,315,128,106,134,53,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","Georgia","GEO","EUR",8,2015,"Surveillance",1,NA,"A",168,186,NA,19,15,NA,NA,347,150,126,133,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","Georgia","GEO","EUR",9,2014,"Surveillance",1,NA,"A",172,197,0,14,12,NA,NA,357,154,106,151,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","Georgia","GEO","EUR",10,2013,"Surveillance",1,NA,"A",183,201,0,NA,NA,NA,NA,369,164,111,165,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","Georgia","GEO","EUR",11,2012,"Surveillance",1,NA,"A",177,169,0,NA,NA,NA,NA,341,171,51,149,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","Georgia","GEO","EUR",12,2011,"Surveillance",1,NA,"A",239,214,0,NA,NA,NA,NA,440,233,54,181,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","Georgia","GEO","EUR",13,2010,"Surveillance",1,NA,"A",188,171,0,NA,NA,NA,NA,313,227,47,147,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","Georgia","GEO","EUR",14,2009,"Surveillance",1,NA,"A",183,185,1,NA,NA,NA,NA,306,220,42,151,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","Ghana","GHA","AFR",1,2022,"Surveillance",1,NA,"A",28,4,NA,NA,NA,180,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,213,3,NA,NA,NA,NA,NA,NA,NA
+"262","Ghana","GHA","AFR",2,2021,"Surveillance",1,NA,"A",22,12,NA,NA,NA,188,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,189,1,NA,NA,NA,NA,NA,NA,NA
+"263","Ghana","GHA","AFR",3,2019,"Surveillance",1,NA,"A",91,37,NA,NA,NA,229,37,117,NA,NA,NA,2,NA,NA,NA,NA,NA,117,10,NA,NA,NA,NA,NA,NA,NA
+"264","Guinea-Bissau","GNB","AFR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"265","Greece","GRC","EUR",1,2010,"Surveillance",1,NA,"A",1,1,0,NA,NA,NA,NA,2,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","Greece","GRC","EUR",2,2009,"Surveillance",1,NA,"A",8,4,0,NA,NA,NA,NA,11,7,2,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Grenada","GRD","AMR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"268","Guatemala","GTM","AMR",1,2022,"Surveillance",1,NA,"A",16,3,NA,NA,NA,53,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,66,11,NA,NA,NA,NA,NA,NA,NA
+"269","Guam","GUM","WPR",1,2022,"Surveillance",1,NA,"N",1,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"270","Guam","GUM","WPR",2,2021,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"271","Guam","GUM","WPR",3,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"272","Guam","GUM","WPR",4,2019,"Surveillance",1,NA,"N",2,0,NA,NA,NA,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"273","Guam","GUM","WPR",5,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Guam","GUM","WPR",6,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Guam","GUM","WPR",7,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","Guam","GUM","WPR",8,2010,"Surveillance",1,NA,"A",2,0,0,NA,NA,NA,NA,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","Guam","GUM","WPR",9,2009,"Surveillance",1,NA,"A",1,0,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","Guam","GUM","WPR",10,2008,"pre-2010 TME data collection",1,NA,"A",0,0,NA,NA,NA,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","Guyana","GUY","AMR",1,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,9,4,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"280","Guyana","GUY","AMR",2,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,6,9,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","China, Hong Kong SAR","HKG","WPR",1,2022,"Surveillance",1,NA,"A",17,5,NA,NA,NA,21,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,1,NA,NA,NA,NA,NA,NA,NA
+"282","China, Hong Kong SAR","HKG","WPR",2,2021,"Surveillance",1,NA,"A",17,4,NA,NA,NA,22,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,3,NA,NA,NA,NA,NA,NA,NA
+"283","China, Hong Kong SAR","HKG","WPR",3,2020,"Surveillance",1,NA,"A",10,1,NA,NA,NA,14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,2,NA,NA,NA,NA,NA,NA,NA
+"284","China, Hong Kong SAR","HKG","WPR",4,2019,"Surveillance",1,NA,"A",16,5,NA,NA,NA,19,5,17,NA,NA,NA,0,NA,NA,NA,NA,NA,20,2,NA,NA,NA,NA,NA,NA,NA
+"285","China, Hong Kong SAR","HKG","WPR",5,2018,"Surveillance",1,NA,"N",25,11,NA,NA,NA,37,11,32,NA,NA,NA,1,41,35,5,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","China, Hong Kong SAR","HKG","WPR",6,2017,"Surveillance",1,NA,"A",14,8,NA,NA,NA,20,9,22,NA,NA,NA,0,29,25,1,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","China, Hong Kong SAR","HKG","WPR",7,2011,"Surveillance",1,NA,"A",17,6,0,0,0,NA,NA,23,19,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","China, Hong Kong SAR","HKG","WPR",8,2008,"Surveillance",1,NA,"A",8,10,NA,NA,NA,NA,NA,16,NA,5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","Croatia","HRV","EUR",1,2015,"Surveillance",1,NA,"A",0,0,NA,NA,NA,NA,NA,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","Croatia","HRV","EUR",2,2014,"Surveillance",1,NA,"A",0,2,0,NA,NA,NA,NA,2,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","Hungary","HUN","EUR",1,2022,"Surveillance",1,NA,"A",13,1,NA,NA,NA,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,5,NA,NA,NA,NA,NA,NA,NA
+"292","Hungary","HUN","EUR",2,2021,"Surveillance",1,NA,"A",5,5,NA,NA,NA,7,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,6,NA,NA,NA,NA,NA,NA,NA
+"293","Hungary","HUN","EUR",3,2020,"Surveillance",1,NA,"A",4,3,NA,NA,NA,6,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,NA,NA,NA,NA,NA
+"294","Hungary","HUN","EUR",4,2019,"Surveillance",1,NA,"N",7,5,NA,NA,NA,8,5,5,NA,NA,NA,3,NA,NA,NA,NA,NA,13,6,NA,NA,NA,NA,NA,NA,NA
+"295","Hungary","HUN","EUR",5,2018,"Surveillance",1,NA,"N",8,4,NA,NA,NA,8,5,11,NA,NA,NA,3,11,4,5,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Hungary","HUN","EUR",6,2010,"Surveillance",1,NA,"A",12,7,0,NA,NA,NA,NA,18,14,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","India","IND","SEA",1,2016,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,307,NA,NA,NA,4,307,233,67,11,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","Ireland","IRL","EUR",1,2014,"Surveillance",1,NA,"A",2,0,0,NA,NA,NA,NA,2,0,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","Ireland","IRL","EUR",2,2013,"Surveillance",1,NA,"A",2,0,2,NA,NA,NA,NA,3,1,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","Ireland","IRL","EUR",3,2011,"Surveillance",1,NA,"A",0,1,2,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","Iceland","ISL","EUR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"302","Iceland","ISL","EUR",2,2012,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","Iceland","ISL","EUR",3,2008,"Surveillance",1,NA,"A",1,0,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Israel","ISR","EUR",1,2022,"Surveillance",1,NA,"A",10,0,NA,NA,NA,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,1,NA,NA,NA,NA,NA,NA,NA
+"305","Israel","ISR","EUR",2,2021,"Surveillance",1,NA,"A",9,0,NA,NA,NA,9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,5,NA,NA,NA,NA,NA,NA,NA
+"306","Israel","ISR","EUR",3,2020,"Surveillance",1,NA,"A",5,0,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA
+"307","Israel","ISR","EUR",4,2019,"Surveillance",1,NA,"N",9,0,NA,NA,NA,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,9,1,NA,NA,NA,NA,NA,NA,NA
+"308","Israel","ISR","EUR",5,2018,"Surveillance",1,NA,"A",13,0,NA,NA,NA,15,0,13,NA,NA,NA,7,15,15,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","Israel","ISR","EUR",6,2017,"Surveillance",1,NA,"A",7,1,NA,NA,NA,7,1,8,NA,NA,NA,1,8,3,1,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","Israel","ISR","EUR",7,2016,"Surveillance",1,NA,"A",9,0,NA,NA,NA,NA,NA,9,NA,NA,NA,2,9,5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","Israel","ISR","EUR",8,2015,"Surveillance",1,NA,"A",10,1,NA,NA,NA,NA,NA,11,6,1,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","Israel","ISR","EUR",9,2014,"Surveillance",1,NA,"A",13,2,0,NA,NA,NA,NA,15,13,1,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Israel","ISR","EUR",10,2013,"Surveillance",1,NA,"A",6,1,0,NA,NA,NA,NA,7,4,1,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","Israel","ISR","EUR",11,2012,"Surveillance",1,NA,"A",15,2,0,NA,NA,NA,NA,17,11,4,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","Israel","ISR","EUR",12,2011,"Surveillance",1,NA,"A",10,1,0,0,0,NA,NA,11,0,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Israel","ISR","EUR",13,2010,"Surveillance",1,NA,"A",12,0,0,NA,NA,NA,NA,12,6,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","Israel","ISR","EUR",14,2009,"Surveillance",1,NA,"A",4,2,0,NA,NA,NA,NA,6,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Israel","ISR","EUR",15,2008,"Surveillance",1,NA,"A",12,1,NA,NA,NA,NA,NA,13,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","Italy","ITA","EUR",1,2019,"Surveillance",1,NA,"N",34,4,NA,NA,NA,41,4,31,NA,NA,NA,2,NA,NA,NA,NA,NA,34,12,NA,NA,NA,NA,NA,NA,NA
+"320","Italy","ITA","EUR",2,2015,"Surveillance",1,NA,"A",18,14,NA,NA,NA,NA,NA,31,14,8,15,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","Italy","ITA","EUR",3,2012,"Surveillance",1,NA,"A",12,12,50,NA,NA,NA,NA,50,34,8,13,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Italy","ITA","EUR",4,2011,"Surveillance",1,NA,"A",30,24,27,NA,NA,NA,NA,50,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","Jamaica","JAM","AMR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"324","Jamaica","JAM","AMR",2,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"325","Jamaica","JAM","AMR",3,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"326","Jamaica","JAM","AMR",4,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"327","Jamaica","JAM","AMR",5,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","Jamaica","JAM","AMR",6,2013,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Jordan","JOR","EMR",1,2019,"Surveillance",1,NA,"N",2,0,NA,NA,NA,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"330","Kazakhstan","KAZ","EUR",1,2021,"Surveillance",1,NA,"A",1503,762,NA,NA,NA,1932,1011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2931,461,NA,NA,NA,NA,NA,NA,NA
+"331","Kazakhstan","KAZ","EUR",2,2020,"Surveillance",1,NA,"A",1340,988,NA,NA,NA,1758,1101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2848,399,NA,NA,NA,NA,NA,NA,NA
+"332","Kazakhstan","KAZ","EUR",3,2019,"Surveillance",1,NA,"A",756,813,NA,NA,NA,1534,1446,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2460,635,NA,NA,NA,NA,NA,NA,NA
+"333","Kazakhstan","KAZ","EUR",4,2018,"Surveillance",1,NA,"A",435,1027,NA,NA,NA,1706,2337,NA,NA,NA,NA,NA,3577,2726,349,838,336,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","Kyrgyzstan","KGZ","EUR",1,2022,"Surveillance",1,NA,"A",410,251,NA,NA,NA,487,294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,674,114,NA,NA,NA,NA,NA,NA,NA
+"335","Kyrgyzstan","KGZ","EUR",2,2020,"Surveillance",1,NA,"A",391,324,NA,NA,NA,493,377,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,869,149,NA,NA,NA,NA,NA,NA,NA
+"336","Kyrgyzstan","KGZ","EUR",3,2019,"Surveillance",1,NA,"A",589,508,NA,NA,NA,700,603,887,NA,NA,NA,93,NA,NA,NA,NA,NA,909,97,NA,NA,NA,NA,NA,NA,NA
+"337","Kyrgyzstan","KGZ","EUR",4,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,259,NA,28,29,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","Kiribati","KIR","WPR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"339","Kiribati","KIR","WPR",2,2019,"Surveillance",1,NA,"A",NA,NA,NA,NA,NA,1,2,3,NA,NA,NA,0,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA
+"340","Kiribati","KIR","WPR",3,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,3,1,0,NA,NA,NA,0,4,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","Saint Kitts and Nevis","KNA","AMR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"342","Republic of Korea","KOR","WPR",1,2022,"Surveillance",1,NA,"A",191,139,NA,NA,NA,291,195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,486,61,NA,NA,NA,NA,NA,NA,NA
+"343","Republic of Korea","KOR","WPR",2,2021,"Surveillance",1,NA,"N",183,162,NA,NA,NA,279,211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,490,42,NA,NA,NA,NA,NA,NA,NA
+"344","Republic of Korea","KOR","WPR",3,2020,"Surveillance",1,NA,"A",212,125,NA,NA,NA,332,196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,528,44,NA,NA,NA,NA,NA,NA,NA
+"345","Republic of Korea","KOR","WPR",4,2019,"Surveillance",1,NA,"A",297,186,NA,NA,NA,429,267,478,NA,NA,NA,20,NA,NA,NA,NA,NA,631,95,NA,NA,NA,NA,NA,NA,NA
+"346","Republic of Korea","KOR","WPR",5,2018,"Surveillance",1,NA,"A",321,202,NA,NA,NA,443,286,523,NA,NA,NA,23,667,555,86,49,23,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","Republic of Korea","KOR","WPR",6,2017,"Surveillance",1,NA,"A",320,246,NA,NA,NA,440,320,560,NA,NA,NA,42,710,563,108,83,44,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","Republic of Korea","KOR","WPR",7,2016,"Surveillance",1,NA,"A",369,250,NA,9,4,NA,NA,605,NA,NA,NA,23,740,609,94,60,23,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","Kuwait","KWT","EMR",1,2022,"Surveillance",1,NA,"N",4,0,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3,NA,NA,NA,NA,NA,NA,NA
+"350","Kuwait","KWT","EMR",2,2021,"Surveillance",1,NA,"N",5,0,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA
+"351","Kuwait","KWT","EMR",3,2020,"Surveillance",1,NA,"N",6,0,NA,NA,NA,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,NA,NA,NA,NA,NA,NA,NA
+"352","Kuwait","KWT","EMR",4,2019,"Surveillance",1,NA,"N",3,0,NA,NA,NA,4,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA
+"353","Kuwait","KWT","EMR",5,2018,"Surveillance",1,NA,"N",2,0,NA,NA,NA,5,0,2,NA,NA,NA,0,5,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","Kuwait","KWT","EMR",6,2017,"Surveillance",1,NA,"A",4,0,NA,NA,NA,6,0,4,NA,NA,NA,0,6,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Kuwait","KWT","EMR",7,2016,"Surveillance",1,NA,"A",9,0,NA,0,0,NA,NA,10,NA,NA,NA,0,11,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","Kuwait","KWT","EMR",8,2015,"Surveillance",1,NA,"A",8,0,NA,0,0,NA,NA,8,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","Lao People's Democratic Republic","LAO","WPR",1,2019,"Surveillance",1,NA,"A",NA,NA,NA,NA,NA,33,18,39,NA,NA,NA,0,NA,NA,NA,NA,NA,39,0,NA,NA,NA,NA,NA,NA,NA
+"358","Lao People's Democratic Republic","LAO","WPR",2,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","Lebanon","LBN","EMR",1,2022,"Surveillance",1,NA,"A",1,0,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA
+"360","Lebanon","LBN","EMR",2,2021,"Surveillance",1,NA,"A",2,0,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA
+"361","Lebanon","LBN","EMR",3,2019,"Surveillance",1,NA,"N",7,0,NA,NA,NA,9,0,7,NA,NA,NA,1,NA,NA,NA,NA,NA,8,1,NA,NA,NA,NA,NA,NA,NA
+"362","Lebanon","LBN","EMR",4,2018,"Surveillance",1,NA,"A",3,1,NA,NA,NA,3,1,4,NA,NA,NA,1,4,3,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","Lebanon","LBN","EMR",5,2017,"Surveillance",1,NA,"A",5,1,NA,NA,NA,5,1,5,NA,NA,NA,2,5,3,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","Lebanon","LBN","EMR",6,2017,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,3,7,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","Saint Lucia","LCA","AMR",1,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","Saint Lucia","LCA","AMR",2,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","Sri Lanka","LKA","SEA",1,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,0,5,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","Lesotho","LSO","AFR",1,2022,"Surveillance",1,NA,"A",9,0,NA,NA,NA,81,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,102,3,NA,NA,NA,NA,NA,NA,NA
+"369","Lesotho","LSO","AFR",2,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,53,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,67,5,NA,NA,NA,NA,NA,NA,NA
+"370","Lithuania","LTU","EUR",1,2020,"Surveillance",1,NA,"A",60,43,NA,NA,NA,61,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,104,34,NA,NA,NA,NA,NA,NA,NA
+"371","Lithuania","LTU","EUR",2,2019,"Surveillance",1,NA,"A",90,67,NA,NA,NA,100,70,157,NA,NA,NA,57,NA,NA,NA,NA,NA,159,76,NA,NA,NA,NA,NA,NA,NA
+"372","Lithuania","LTU","EUR",3,2018,"Surveillance",1,NA,"A",88,82,NA,NA,NA,96,92,170,NA,NA,NA,58,188,80,76,90,58,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Lithuania","LTU","EUR",4,2017,"Surveillance",1,NA,"A",110,138,NA,NA,NA,118,145,248,NA,NA,NA,87,262,112,109,128,87,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","Lithuania","LTU","EUR",5,2015,"Surveillance",1,NA,"A",104,134,NA,NA,NA,NA,NA,238,103,98,95,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","Lithuania","LTU","EUR",6,2014,"Surveillance",1,NA,"A",128,138,2,NA,NA,NA,NA,232,87,104,101,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","Lithuania","LTU","EUR",7,2011,"Surveillance",1,NA,"A",114,180,2,NA,NA,NA,NA,296,171,79,98,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","Lithuania","LTU","EUR",8,2010,"Surveillance",1,NA,"A",128,181,1,NA,NA,NA,NA,310,197,71,92,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","Luxembourg","LUX","EUR",1,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"379","Luxembourg","LUX","EUR",2,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"380","Latvia","LVA","EUR",1,2022,"Surveillance",1,NA,"A",26,3,NA,NA,NA,26,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,3,NA,NA,NA,NA,NA,NA,NA
+"381","Latvia","LVA","EUR",2,2017,"Surveillance",1,NA,"A",28,17,NA,NA,NA,29,18,45,NA,NA,NA,17,47,14,18,32,17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Latvia","LVA","EUR",3,2016,"Surveillance",1,NA,"A",32,21,NA,NA,NA,NA,NA,53,NA,NA,NA,20,53,14,22,37,20,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Latvia","LVA","EUR",4,2015,"Surveillance",1,NA,"A",36,26,NA,NA,NA,NA,NA,62,20,18,40,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Latvia","LVA","EUR",5,2014,"Surveillance",1,NA,"A",38,32,0,NA,NA,NA,NA,70,27,17,39,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","Latvia","LVA","EUR",6,2013,"Surveillance",1,NA,"A",48,27,0,NA,NA,NA,NA,69,18,18,48,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","Latvia","LVA","EUR",7,2012,"Surveillance",1,NA,"A",74,32,0,NA,NA,NA,NA,106,41,21,61,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","Latvia","LVA","EUR",8,2011,"Surveillance",1,NA,"A",71,24,0,NA,NA,NA,NA,95,40,21,46,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","Latvia","LVA","EUR",9,2010,"Surveillance",1,NA,"A",64,24,0,NA,NA,NA,NA,87,23,24,53,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","Latvia","LVA","EUR",10,2009,"Surveillance",1,NA,"A",83,48,0,NA,NA,NA,NA,130,51,21,74,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","Latvia","LVA","EUR",11,2008,"Surveillance",1,NA,"A",83,46,NA,NA,NA,NA,NA,128,NA,20,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","China, Macao SAR","MAC","WPR",1,2019,"Surveillance",1,NA,"A",2,0,NA,NA,NA,5,1,2,NA,NA,NA,0,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA
+"392","China, Macao SAR","MAC","WPR",2,2018,"Surveillance",1,NA,"A",4,3,NA,NA,NA,4,3,7,NA,NA,NA,0,7,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","China, Macao SAR","MAC","WPR",3,2015,"Surveillance",1,NA,"A",3,3,NA,0,0,NA,NA,6,5,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","China, Macao SAR","MAC","WPR",4,2014,"Surveillance",1,NA,"A",4,4,0,0,0,NA,NA,8,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","China, Macao SAR","MAC","WPR",5,2013,"Surveillance",1,NA,"A",5,3,1,0,0,NA,NA,7,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","China, Macao SAR","MAC","WPR",6,2012,"Surveillance",1,NA,"A",2,6,0,0,0,NA,NA,7,6,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","China, Macao SAR","MAC","WPR",7,2011,"Surveillance",1,NA,"A",4,1,0,0,0,NA,NA,5,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","China, Macao SAR","MAC","WPR",8,2010,"Surveillance",1,NA,"A",4,2,0,NA,NA,NA,NA,6,5,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","China, Macao SAR","MAC","WPR",9,2009,"Surveillance",1,NA,"A",3,0,0,NA,NA,NA,NA,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","China, Macao SAR","MAC","WPR",10,2008,"Surveillance",1,NA,"A",5,2,0,NA,NA,NA,NA,7,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","Republic of Moldova","MDA","EUR",1,2022,"Surveillance",1,NA,"A",188,152,NA,NA,NA,238,190,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,428,70,NA,NA,NA,NA,NA,NA,NA
+"402","Republic of Moldova","MDA","EUR",2,2021,"Surveillance",1,NA,"A",254,200,NA,NA,NA,256,203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,459,124,NA,NA,NA,NA,NA,NA,NA
+"403","Republic of Moldova","MDA","EUR",3,2020,"Surveillance",1,NA,"A",166,109,NA,NA,NA,218,195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,413,188,NA,NA,NA,NA,NA,NA,NA
+"404","Republic of Moldova","MDA","EUR",4,2019,"Surveillance",1,NA,"N",299,142,NA,NA,NA,441,118,441,NA,NA,NA,49,NA,NA,NA,NA,NA,559,121,NA,NA,NA,NA,NA,NA,NA
+"405","Republic of Moldova","MDA","EUR",5,2018,"Surveillance",1,NA,"A",309,316,NA,NA,NA,402,359,616,NA,NA,NA,74,658,385,157,196,80,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","Republic of Moldova","MDA","EUR",6,2017,"Surveillance",1,NA,"A",308,178,NA,NA,NA,399,280,475,NA,NA,NA,30,533,383,89,93,32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","Republic of Moldova","MDA","EUR",7,2016,"Surveillance",1,NA,"A",304,221,NA,77,71,NA,NA,514,NA,NA,NA,42,603,471,108,75,51,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","Republic of Moldova","MDA","EUR",8,2012,"Surveillance",1,NA,"A",299,581,14,NA,NA,NA,NA,761,478,97,82,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","Maldives","MDV","SEA",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"410","Maldives","MDV","SEA",2,2019,"Surveillance",1,NA,"N",1,0,NA,NA,NA,1,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA
+"411","Maldives","MDV","SEA",3,2016,"Surveillance",1,NA,"A",0,0,NA,1,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","Marshall Islands","MHL","WPR",1,2022,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"413","Marshall Islands","MHL","WPR",2,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"414","Marshall Islands","MHL","WPR",3,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"415","Marshall Islands","MHL","WPR",4,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","Marshall Islands","MHL","WPR",5,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","Marshall Islands","MHL","WPR",6,2012,"Surveillance",1,NA,"A",3,0,0,0,0,NA,NA,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Marshall Islands","MHL","WPR",7,2011,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","Marshall Islands","MHL","WPR",8,2010,"Surveillance",1,NA,"A",1,0,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","North Macedonia","MKD","EUR",1,2018,"Surveillance",1,NA,"A",2,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","North Macedonia","MKD","EUR",2,2017,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Mali","MLI","AFR",1,2019,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,NA,26.1,10.2,48.4,NA,NA,NA,NA
+"423","Malta","MLT","EUR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"424","Myanmar","MMR","SEA",1,2018,"Surveillance",1,NA,"A",65,100,NA,NA,NA,2194,1285,165,NA,NA,NA,27,927,815,126,13,27,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","Myanmar","MMR","SEA",2,2008,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,93,NA,12,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","Montenegro","MNE","EUR",1,2022,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"427","Montenegro","MNE","EUR",2,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"428","Montenegro","MNE","EUR",3,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"429","Montenegro","MNE","EUR",4,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"430","Montenegro","MNE","EUR",5,2018,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,1,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","Montenegro","MNE","EUR",6,2017,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,1,NA,NA,NA,1,1,0,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","Montenegro","MNE","EUR",7,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Montenegro","MNE","EUR",8,2015,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","Montenegro","MNE","EUR",9,2014,"Surveillance",1,NA,"A",0,2,0,0,0,NA,NA,2,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","Montenegro","MNE","EUR",10,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Montenegro","MNE","EUR",11,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","Montenegro","MNE","EUR",12,2011,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","Montenegro","MNE","EUR",13,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","Montenegro","MNE","EUR",14,2009,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","Mongolia","MNG","WPR",1,2020,"Surveillance",1,NA,"A",33,18,NA,NA,NA,90,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,143,8,NA,NA,NA,NA,NA,NA,NA
+"441","Mongolia","MNG","WPR",2,2016,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,105,NA,NA,NA,3,110,99,8,7,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","Northern Mariana Islands","MNP","WPR",1,2022,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"443","Northern Mariana Islands","MNP","WPR",2,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"444","Northern Mariana Islands","MNP","WPR",3,2020,"Surveillance",1,NA,"N",2,0,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"445","Northern Mariana Islands","MNP","WPR",4,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"446","Northern Mariana Islands","MNP","WPR",5,2018,"Surveillance",1,NA,"N",1,0,NA,NA,NA,1,0,1,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","Northern Mariana Islands","MNP","WPR",6,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","Northern Mariana Islands","MNP","WPR",7,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","Northern Mariana Islands","MNP","WPR",8,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","Northern Mariana Islands","MNP","WPR",9,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Northern Mariana Islands","MNP","WPR",10,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","Northern Mariana Islands","MNP","WPR",11,2009,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Mauritius","MUS","AFR",1,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"454","Mauritius","MUS","AFR",2,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"455","Mauritius","MUS","AFR",3,2018,"Surveillance",1,NA,"N",1,0,NA,NA,NA,1,2,1,NA,NA,NA,0,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","Mauritius","MUS","AFR",4,2017,"Surveillance",1,NA,"A",1,0,NA,NA,NA,2,0,1,NA,NA,NA,0,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","Mauritius","MUS","AFR",5,2016,"Surveillance",1,NA,"A",2,0,NA,0,0,NA,NA,2,NA,NA,NA,0,3,1,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","Mauritius","MUS","AFR",6,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","Mauritius","MUS","AFR",7,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","Mauritius","MUS","AFR",8,2011,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Malawi","MWI","AFR",1,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,31,19,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","Malaysia","MYS","WPR",1,2019,"Surveillance",1,NA,"N",68,4,NA,NA,NA,142,27,72,NA,NA,NA,3,NA,NA,NA,NA,NA,155,9,NA,NA,NA,NA,NA,NA,NA
+"463","Malaysia","MYS","WPR",2,2014,"Surveillance",1,NA,"A",19,3,82,0,0,NA,NA,93,84,9,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Namibia","NAM","AFR",1,2021,"Surveillance",1,NA,"A",139,12,NA,NA,NA,169,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,236,4,NA,NA,NA,NA,NA,NA,NA
+"465","Namibia","NAM","AFR",2,2015,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,108,99,5,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","Namibia","NAM","AFR",3,2008,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,100,94,2,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","New Caledonia","NCL","WPR",1,2021,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"468","New Caledonia","NCL","WPR",2,2014,"Surveillance",1,NA,"A",0,0,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","New Caledonia","NCL","WPR",3,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","New Caledonia","NCL","WPR",4,2011,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","Nigeria","NGA","AFR",1,2022,"Surveillance",1,NA,"N",580,NA,NA,NA,NA,3775,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3195,39,NA,NA,NA,NA,NA,NA,NA
+"472","Nigeria","NGA","AFR",2,2010,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,70,70,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","Netherlands (Kingdom of the)","NLD","EUR",1,2022,"Surveillance",1,NA,"A",6,2,NA,NA,NA,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,4,NA,NA,NA,NA,NA,NA,NA
+"474","Netherlands (Kingdom of the)","NLD","EUR",2,2021,"Surveillance",1,NA,"N",7,1,NA,NA,NA,8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,NA,NA,NA,NA,NA,NA,NA
+"475","Netherlands (Kingdom of the)","NLD","EUR",3,2020,"Surveillance",1,NA,"N",3,0,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA
+"476","Netherlands (Kingdom of the)","NLD","EUR",4,2019,"Surveillance",1,NA,"A",6,0,NA,NA,NA,7,0,6,NA,NA,NA,1,NA,NA,NA,NA,NA,7,2,NA,NA,NA,NA,NA,NA,NA
+"477","Netherlands (Kingdom of the)","NLD","EUR",5,2018,"Surveillance",1,NA,"N",3,0,NA,NA,NA,3,0,3,NA,NA,NA,1,3,1,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","Netherlands (Kingdom of the)","NLD","EUR",6,2017,"Surveillance",1,NA,"A",5,1,NA,NA,NA,6,1,5,NA,NA,NA,0,6,5,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","Netherlands (Kingdom of the)","NLD","EUR",7,2016,"Surveillance",1,NA,"A",6,2,NA,NA,NA,NA,NA,8,NA,NA,NA,0,10,10,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Netherlands (Kingdom of the)","NLD","EUR",8,2015,"Surveillance",1,NA,"A",6,3,NA,NA,NA,NA,NA,9,4,2,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","Norway","NOR","EUR",1,2022,"Surveillance",1,NA,"N",7,1,NA,NA,NA,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,2,NA,NA,NA,NA,NA,NA,NA
+"482","Norway","NOR","EUR",2,2021,"Surveillance",1,NA,"A",6,2,NA,NA,NA,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,2,NA,NA,NA,NA,NA,NA,NA
+"483","Norway","NOR","EUR",3,2020,"Surveillance",1,NA,"A",1,0,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"484","Norway","NOR","EUR",4,2018,"Surveillance",1,NA,"A",4,0,NA,NA,NA,6,0,4,NA,NA,NA,0,6,5,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","Norway","NOR","EUR",5,2017,"Surveillance",1,NA,"A",6,0,NA,NA,NA,6,0,6,NA,NA,NA,0,6,5,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Norway","NOR","EUR",6,2015,"Surveillance",1,NA,"A",4,0,NA,NA,NA,NA,NA,4,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","Norway","NOR","EUR",7,2014,"Surveillance",1,NA,"A",5,3,0,NA,NA,NA,NA,8,6,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Norway","NOR","EUR",8,2013,"Surveillance",1,NA,"A",4,1,0,NA,NA,NA,NA,5,4,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Norway","NOR","EUR",9,2012,"Surveillance",1,NA,"A",3,2,1,NA,NA,NA,NA,6,5,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Norway","NOR","EUR",10,2011,"Surveillance",1,NA,"A",3,0,1,NA,NA,NA,NA,4,3,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Norway","NOR","EUR",11,2010,"Surveillance",1,NA,"A",6,2,0,NA,NA,NA,NA,8,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Norway","NOR","EUR",12,2008,"Surveillance",1,NA,"A",1,2,1,NA,NA,NA,NA,4,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","Nauru","NRU","WPR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"494","New Zealand","NZL","WPR",1,2014,"Surveillance",1,NA,"A",2,1,0,NA,NA,NA,NA,3,2,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","New Zealand","NZL","WPR",2,2012,"Surveillance",1,NA,"A",2,2,0,NA,NA,NA,NA,4,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","New Zealand","NZL","WPR",3,2011,"Surveillance",1,NA,"A",1,1,0,NA,NA,NA,NA,2,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","New Zealand","NZL","WPR",4,2009,"Surveillance",1,NA,"A",6,1,0,NA,NA,NA,NA,7,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","New Zealand","NZL","WPR",5,2008,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","Oman","OMN","EMR",1,2022,"Surveillance",1,NA,"A",4,0,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA
+"500","Oman","OMN","EMR",2,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"501","Oman","OMN","EMR",3,2020,"Surveillance",1,NA,"A",1,0,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA
+"502","Oman","OMN","EMR",4,2019,"Surveillance",1,NA,"A",4,0,NA,NA,NA,5,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,5,5,NA,NA,NA,NA,NA,NA,NA
+"503","Oman","OMN","EMR",5,2018,"Surveillance",1,NA,"A",4,0,NA,NA,NA,5,0,0,NA,NA,NA,0,5,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","Oman","OMN","EMR",6,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","Oman","OMN","EMR",7,2016,"Surveillance",1,NA,"A",4,0,NA,0,0,NA,NA,4,NA,NA,NA,2,4,2,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Oman","OMN","EMR",8,2014,"Surveillance",1,NA,"A",6,0,0,0,0,NA,NA,6,5,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Oman","OMN","EMR",9,2013,"Surveillance",1,NA,"A",2,0,0,0,0,NA,NA,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","Oman","OMN","EMR",10,2012,"Surveillance",1,NA,"A",6,0,0,0,0,NA,NA,6,4,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","Oman","OMN","EMR",11,2011,"Surveillance",1,NA,"A",4,0,0,0,0,NA,NA,4,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","Oman","OMN","EMR",12,2010,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","Pakistan","PAK","EMR",1,2013,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,94,NA,66,4,1,69,54,17,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","Panama","PAN","AMR",1,2019,"Surveillance",1,NA,"N",5,2,NA,NA,NA,22,8,7,NA,NA,NA,2,NA,NA,NA,NA,NA,29,8,NA,NA,NA,NA,NA,NA,NA
+"513","Peru","PER","AMR",1,2016,"Surveillance",1,NA,"A",784,515,NA,0,0,NA,NA,1046,NA,NA,NA,109,1104,840,161,212,109,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","Philippines","PHL","WPR",1,2019,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,53,NA,NA,NA,1,78,69,2,8,1,78,NA,2.5,0.7,9.1,193,2,0.8,5.1
+"515","Philippines","PHL","WPR",2,2012,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,93,87,0,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Palau","PLW","WPR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"517","Palau","PLW","WPR",2,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"518","Palau","PLW","WPR",3,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"519","Palau","PLW","WPR",4,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"520","Palau","PLW","WPR",5,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Palau","PLW","WPR",6,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","Palau","PLW","WPR",7,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Palau","PLW","WPR",8,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","Palau","PLW","WPR",9,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","Palau","PLW","WPR",10,2011,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","Palau","PLW","WPR",11,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","Papua New Guinea","PNG","WPR",1001,2014,"Survey",0,"Four provinces: National Capital District, Western Province, Madang, Morobe","A",NA,NA,NA,NA,NA,NA,NA,44,NA,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","Poland","POL","EUR",1,2018,"Surveillance",1,NA,"A",31,15,NA,NA,NA,37,18,41,NA,NA,NA,12,41,20,18,15,12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","Poland","POL","EUR",2,2016,"Surveillance",1,NA,"A",27,18,NA,NA,NA,NA,NA,38,NA,NA,NA,8,38,19,13,14,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","Poland","POL","EUR",3,2008,"Surveillance",1,NA,"A",18,34,NA,NA,NA,NA,NA,52,35,9,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Puerto Rico","PRI","AMR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"532","Puerto Rico","PRI","AMR",2,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Puerto Rico","PRI","AMR",3,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","Puerto Rico","PRI","AMR",4,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","Puerto Rico","PRI","AMR",5,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","Puerto Rico","PRI","AMR",6,2013,"Surveillance",1,NA,"A",1,0,0,0,0,NA,NA,1,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","Puerto Rico","PRI","AMR",7,2012,"Surveillance",1,NA,"A",0,1,0,0,0,NA,NA,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","Puerto Rico","PRI","AMR",8,2010,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","Puerto Rico","PRI","AMR",9,2009,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","Paraguay","PRY","AMR",1,2008,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,8,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","occupied Palestinian territory, including east Jerusalem","PSE","EMR",1,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"542","French Polynesia","PYF","WPR",1,2020,"Surveillance",1,NA,"A",3,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA
+"543","French Polynesia","PYF","WPR",2,2018,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,1,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","French Polynesia","PYF","WPR",3,2017,"Surveillance",1,NA,"A",1,1,NA,NA,NA,1,1,2,NA,NA,NA,0,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","French Polynesia","PYF","WPR",4,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","French Polynesia","PYF","WPR",5,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","French Polynesia","PYF","WPR",6,2009,"Surveillance",1,NA,"A",0,0,0,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","Qatar","QAT","EMR",1,2021,"Surveillance",1,NA,"N",5,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA,NA
+"549","Qatar","QAT","EMR",2,2020,"Surveillance",1,NA,"A",8,1,NA,NA,NA,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,9,NA,NA,NA,NA,NA,NA,NA
+"550","Qatar","QAT","EMR",3,2018,"Surveillance",1,NA,"A",3,0,NA,NA,NA,3,0,3,NA,NA,NA,0,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","Qatar","QAT","EMR",4,2017,"Surveillance",1,NA,"A",5,0,NA,NA,NA,5,0,5,NA,NA,NA,0,5,2,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","Qatar","QAT","EMR",5,2014,"Surveillance",1,NA,"A",2,NA,NA,0,NA,NA,NA,2,2,0,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","Qatar","QAT","EMR",6,2010,"Surveillance",1,NA,"A",4,0,0,NA,NA,NA,NA,4,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","Qatar","QAT","EMR",7,2009,"Surveillance",1,NA,"A",3,0,0,NA,NA,NA,NA,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","Romania","ROU","EUR",1,2015,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,90,56,10,31,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","Russian Federation","RUS","EUR",1,2022,"Surveillance",1,NA,"A",7511,10531,NA,NA,NA,8023,11022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17527,6191,NA,NA,NA,NA,NA,NA,NA
+"557","Russian Federation","RUS","EUR",2,2021,"Surveillance",1,NA,"A",7162,12084,NA,NA,NA,7707,12745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18843,7346,NA,NA,NA,NA,NA,NA,NA
+"558","Russian Federation","RUS","EUR",3,2020,"Surveillance",1,NA,"A",7152,13417,NA,NA,NA,7657,14306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20449,7822,NA,NA,NA,NA,NA,NA,NA
+"559","Russian Federation","RUS","EUR",4,2019,"Surveillance",1,NA,"A",8585,15858,NA,NA,NA,9246,17199,23646,NA,NA,NA,5559,NA,NA,NA,NA,NA,25331,9077,NA,NA,NA,NA,NA,NA,NA
+"560","Russian Federation","RUS","EUR",5,2018,"Surveillance",1,NA,"A",8880,15155,NA,NA,NA,9654,17011,23997,NA,NA,NA,4970,23919,NA,7737,9063,4970,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","Russian Federation","RUS","EUR",6,2017,"Surveillance",1,NA,"A",8206,14611,NA,NA,NA,9312,16567,20477,NA,NA,NA,3562,22528,NA,5672,7403,3562,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","Russian Federation","RUS","EUR",7,2016,"Surveillance",1,NA,"A",8463,17508,NA,NA,NA,NA,NA,25258,NA,NA,NA,3402,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","Rwanda","RWA","AFR",1,2022,"Surveillance",1,NA,"A",NA,NA,NA,NA,NA,44,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,0,NA,NA,NA,NA,NA,NA,NA
+"564","Rwanda","RWA","AFR",2,2019,"Surveillance",1,NA,"A",20,5,NA,NA,NA,75,26,23,NA,NA,NA,0,NA,NA,NA,NA,NA,88,0,NA,NA,NA,NA,NA,NA,NA
+"565","Rwanda","RWA","AFR",3,2018,"Surveillance",1,NA,"A",21,7,NA,NA,NA,74,23,28,NA,NA,NA,0,61,60,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","Rwanda","RWA","AFR",4,2015,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,23,23,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","Sudan","SDN","EMR",1,2017,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,49,49,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","Senegal","SEN","AFR",1,2014,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,13,12,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","Singapore","SGP","WPR",1,2022,"Surveillance",1,NA,"N",19,2,NA,NA,NA,21,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,6,NA,NA,NA,NA,NA,NA,NA
+"570","Singapore","SGP","WPR",2,2021,"Surveillance",1,NA,"A",16,2,NA,NA,NA,17,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,2,NA,NA,NA,NA,NA,NA,NA
+"571","Singapore","SGP","WPR",3,2020,"Surveillance",1,NA,"A",9,1,NA,NA,NA,12,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,2,NA,NA,NA,NA,NA,NA,NA
+"572","Singapore","SGP","WPR",4,2019,"Surveillance",1,NA,"A",10,0,NA,NA,NA,14,1,9,NA,NA,NA,0,NA,NA,NA,NA,NA,12,2,NA,NA,NA,NA,NA,NA,NA
+"573","Singapore","SGP","WPR",5,2018,"Surveillance",1,NA,"A",11,1,NA,NA,NA,18,3,11,NA,NA,NA,0,17,13,3,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","Singapore","SGP","WPR",6,2017,"Surveillance",1,NA,"A",12,2,NA,NA,NA,17,3,14,NA,NA,NA,0,19,18,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","Singapore","SGP","WPR",7,2016,"Surveillance",1,NA,"A",14,2,NA,0,0,NA,NA,16,NA,NA,NA,0,19,18,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","Singapore","SGP","WPR",8,2015,"Surveillance",1,NA,"A",9,1,NA,1,0,NA,NA,10,9,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","Singapore","SGP","WPR",9,2014,"Surveillance",1,NA,"A",11,1,0,1,0,NA,NA,12,11,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","Singapore","SGP","WPR",10,2013,"Surveillance",1,NA,"A",10,2,0,0,0,NA,NA,12,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","Singapore","SGP","WPR",11,2012,"Surveillance",1,NA,"A",19,3,0,0,0,NA,NA,22,21,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","Singapore","SGP","WPR",12,2011,"Surveillance",1,NA,"A",6,0,0,0,0,NA,NA,6,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","Singapore","SGP","WPR",13,2010,"Surveillance",1,NA,"A",2,1,0,NA,NA,NA,NA,3,2,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","Singapore","SGP","WPR",14,2009,"Surveillance",1,NA,"A",3,0,NA,NA,NA,NA,NA,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","Singapore","SGP","WPR",15,2008,"Surveillance",1,NA,"A",1,3,NA,NA,NA,NA,NA,4,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","Serbia","SRB","EUR",1,2012,"Surveillance",1,NA,"A",6,3,0,0,0,NA,NA,9,8,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","Serbia","SRB","EUR",2,2011,"Surveillance",1,NA,"A",3,6,0,0,0,NA,NA,9,6,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","Suriname","SUR","AMR",1,2021,"Surveillance",1,NA,"A",9,1,NA,NA,NA,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,NA,NA,NA,NA,NA
+"587","Suriname","SUR","AMR",2,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,6,6,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"588","Suriname","SUR","AMR",3,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,12,1,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","Suriname","SUR","AMR",4,2016,"Surveillance",1,NA,"A",NA,NA,NA,4,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","Suriname","SUR","AMR",5,2015,"Surveillance",1,NA,"A",NA,NA,NA,7,1,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","Slovakia","SVK","EUR",1,2022,"Surveillance",1,NA,"N",3,2,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA,NA
+"592","Slovakia","SVK","EUR",2,2021,"Surveillance",1,NA,"A",2,2,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,NA,NA,NA,NA,NA,NA,NA
+"593","Slovakia","SVK","EUR",3,2020,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"594","Slovakia","SVK","EUR",4,2019,"Surveillance",1,NA,"A",1,4,NA,NA,NA,1,4,5,NA,NA,NA,0,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA
+"595","Slovakia","SVK","EUR",5,2018,"Surveillance",1,NA,"A",0,2,NA,NA,NA,1,2,2,NA,NA,NA,0,2,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","Slovakia","SVK","EUR",6,2017,"Surveillance",1,NA,"A",4,1,NA,NA,NA,4,2,5,NA,NA,NA,2,5,3,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","Slovakia","SVK","EUR",7,2012,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","Slovakia","SVK","EUR",8,2011,"Surveillance",1,NA,"A",2,1,0,NA,NA,NA,NA,3,2,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","Slovakia","SVK","EUR",9,2010,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","Slovakia","SVK","EUR",10,2009,"Surveillance",1,NA,"A",0,1,0,NA,NA,NA,NA,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","Slovenia","SVN","EUR",1,2022,"Surveillance",1,NA,"A",0,1,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA
+"602","Slovenia","SVN","EUR",2,2021,"Surveillance",1,NA,"A",1,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"603","Slovenia","SVN","EUR",3,2020,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"604","Slovenia","SVN","EUR",4,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"605","Sweden","SWE","EUR",1,2022,"Surveillance",1,NA,"N",8,2,NA,NA,NA,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,2,NA,NA,NA,NA,NA,NA,NA
+"606","Sweden","SWE","EUR",2,2021,"Surveillance",1,NA,"A",3,0,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA
+"607","Sweden","SWE","EUR",3,2020,"Surveillance",1,NA,"A",4,1,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA,NA
+"608","Sweden","SWE","EUR",4,2019,"Surveillance",1,NA,"N",4,0,NA,NA,NA,5,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA
+"609","Sweden","SWE","EUR",5,2018,"Surveillance",1,NA,"A",5,2,NA,NA,NA,6,2,7,NA,NA,NA,0,7,6,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","Sweden","SWE","EUR",6,2017,"Surveillance",1,NA,"A",8,1,NA,NA,NA,8,2,9,NA,NA,NA,0,10,8,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","Sweden","SWE","EUR",7,2015,"Surveillance",1,NA,"A",14,2,NA,NA,NA,NA,NA,16,13,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","Sweden","SWE","EUR",8,2014,"Surveillance",1,NA,"A",9,2,0,NA,NA,NA,NA,11,10,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","Sweden","SWE","EUR",9,2013,"Surveillance",1,NA,"A",5,2,0,NA,NA,NA,NA,7,3,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","Sweden","SWE","EUR",10,2012,"Surveillance",1,NA,"A",11,2,1,NA,NA,NA,NA,14,12,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","Sweden","SWE","EUR",11,2011,"Surveillance",1,NA,"A",9,5,3,NA,NA,NA,NA,17,13,1,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","Sweden","SWE","EUR",12,2009,"Surveillance",1,NA,"A",8,4,1,NA,NA,NA,NA,13,7,0,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","Sweden","SWE","EUR",13,2008,"Surveillance",1,NA,"A",7,4,1,NA,NA,NA,NA,11,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","Eswatini","SWZ","AFR",1,2022,"Surveillance",1,NA,"A",4,7,NA,NA,NA,41,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,70,0,NA,NA,NA,NA,NA,NA,NA
+"619","Eswatini","SWZ","AFR",2,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,50,NA,NA,NA,1,64,61,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","Eswatini","SWZ","AFR",3,2017,"Surveillance",1,NA,"A",32,25,NA,NA,NA,114,86,57,NA,NA,NA,10,171,146,16,13,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","Eswatini","SWZ","AFR",4,2009,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,122,121,10,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","Seychelles","SYC","AFR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"623","Seychelles","SYC","AFR",2,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"624","Seychelles","SYC","AFR",3,2019,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"625","Seychelles","SYC","AFR",4,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"626","Seychelles","SYC","AFR",5,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","Seychelles","SYC","AFR",6,2015,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","Seychelles","SYC","AFR",7,2014,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Seychelles","SYC","AFR",8,2012,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","Syrian Arab Republic","SYR","EMR",1,2022,"Surveillance",1,NA,"A",15,0,NA,NA,NA,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,1,NA,NA,NA,NA,NA,NA,NA
+"631","Togo","TGO","AFR",1,2022,"Surveillance",1,NA,"A",10,6,NA,NA,NA,11,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,0,NA,NA,NA,NA,NA,NA,NA
+"632","Togo","TGO","AFR",2,2021,"Surveillance",1,NA,"A",5,4,NA,NA,NA,12,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,3,NA,NA,NA,NA,NA,NA,NA
+"633","Togo","TGO","AFR",3,2020,"Surveillance",1,NA,"A",1,1,NA,NA,NA,13,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,NA,NA,NA,NA,NA
+"634","Togo","TGO","AFR",4,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,17,0,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","Tajikistan","TJK","EUR",1,2022,"Surveillance",1,NA,"A",290,79,NA,NA,NA,416,102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,418,109,NA,NA,NA,NA,NA,NA,NA
+"636","Tajikistan","TJK","EUR",2,2021,"Surveillance",1,NA,"A",267,68,NA,NA,NA,501,105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,551,129,NA,NA,NA,NA,NA,NA,NA
+"637","Tajikistan","TJK","EUR",3,2020,"Surveillance",1,NA,"A",240,84,NA,NA,NA,408,147,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,512,121,NA,NA,NA,NA,NA,NA,NA
+"638","Tajikistan","TJK","EUR",4,2019,"Surveillance",1,NA,"A",262,46,NA,NA,NA,672,206,287,NA,NA,NA,75,NA,NA,NA,NA,NA,362,16,NA,NA,NA,NA,NA,NA,NA
+"639","Tajikistan","TJK","EUR",5,2017,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,253,NA,NA,NA,32,271,168,26,45,32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","Tajikistan","TJK","EUR",6,2014,"Surveillance",1,NA,"A",158,213,0,85,92,NA,NA,371,246,117,147,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"641","Turkmenistan","TKM","EUR",1,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,153,NA,NA,NA,14,162,125,26,26,15,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"642","Timor-Leste","TLS","SEA",1,2019,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,2,NA,0,NA,0,2,NA,0,0,100,6,0,0,100
+"643","Tonga","TON","WPR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"644","Tonga","TON","WPR",2,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"645","Tonga","TON","WPR",3,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"646","Tonga","TON","WPR",4,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"647","Tonga","TON","WPR",5,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","Tonga","TON","WPR",6,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","Tunisia","TUN","EMR",1,2018,"Surveillance",1,NA,"A",11,8,NA,NA,NA,11,8,19,NA,NA,NA,1,19,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","Tunisia","TUN","EMR",2,2017,"Surveillance",1,NA,"A",10,9,NA,NA,NA,10,9,19,NA,NA,NA,1,19,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","Tunisia","TUN","EMR",3,2016,"Surveillance",1,NA,"A",6,3,NA,2,0,NA,NA,13,NA,NA,NA,1,13,13,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","Tunisia","TUN","EMR",4,2015,"Surveillance",1,NA,"A",6,7,NA,0,0,NA,NA,13,12,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Tunisia","TUN","EMR",5,2012,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,14,13,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","Türkiye","TUR","EUR",1,2021,"Surveillance",1,NA,"N",78,24,NA,NA,NA,95,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,101,10,NA,NA,NA,NA,NA,NA,NA
+"655","Türkiye","TUR","EUR",2,2016,"Surveillance",1,NA,"A",110,80,NA,0,1,NA,NA,130,NA,NA,NA,9,156,127,23,15,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","Tuvalu","TUV","WPR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"657","Tuvalu","TUV","WPR",2,2018,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,1,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","United Republic of Tanzania","TZA","AFR",1,2018,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,14,NA,NA,NA,0,18,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","Uganda","UGA","AFR",1,2019,"Surveillance",1,NA,"N",60,45,NA,NA,NA,313,236,105,NA,NA,NA,1,NA,NA,NA,NA,NA,529,15,NA,NA,NA,NA,NA,NA,NA
+"660","Uganda","UGA","AFR",2,2018,"Surveillance",1,NA,"N",41,45,NA,NA,NA,243,273,86,NA,NA,NA,3,159,155,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Uganda","UGA","AFR",3,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,31,28,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","Ukraine","UKR","EUR",1,2022,"Surveillance",1,NA,"A",1714,972,NA,NA,NA,2360,1287,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3148,1009,NA,NA,NA,NA,NA,NA,NA
+"663","Ukraine","UKR","EUR",2,2021,"Surveillance",1,NA,"A",1881,1218,NA,NA,NA,2418,1607,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3266,994,NA,NA,NA,NA,NA,NA,NA
+"664","Ukraine","UKR","EUR",3,2020,"Surveillance",1,NA,"A",1849,1227,NA,NA,NA,2515,1662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4177,1120,NA,NA,NA,NA,NA,NA,NA
+"665","Ukraine","UKR","EUR",4,2019,"Surveillance",1,NA,"A",2588,1902,NA,NA,NA,3438,2498,4490,NA,NA,NA,853,NA,NA,NA,NA,NA,5936,890,NA,NA,NA,NA,NA,NA,NA
+"666","Ukraine","UKR","EUR",5,2018,"Surveillance",1,NA,"A",2755,2299,NA,NA,NA,3587,2888,5054,NA,NA,NA,972,6475,2361,2498,2644,1028,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","Ukraine","UKR","EUR",6,2017,"Surveillance",1,NA,"A",2594,2414,NA,NA,NA,3388,3113,5008,NA,NA,NA,1001,6501,3265,1965,2351,1080,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","Ukraine","UKR","EUR",7,2016,"Surveillance",1,NA,"A",2881,2875,NA,105,159,NA,NA,7519,NA,NA,NA,247,10141,5176,3464,3612,2111,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","Ukraine","UKR","EUR",8,2014,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,445,260,86,149,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","Uruguay","URY","AMR",1,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+"671","Uruguay","URY","AMR",2,2020,"Surveillance",1,NA,"A",2,0,NA,NA,NA,9,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,NA,NA,NA,NA,NA
+"672","Uruguay","URY","AMR",3,2018,"Surveillance",1,NA,"A",1,0,NA,NA,NA,2,0,1,NA,NA,NA,0,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","Uruguay","URY","AMR",4,2017,"Surveillance",1,NA,"A",1,0,NA,NA,NA,2,2,1,NA,NA,NA,0,4,4,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","United States of America","USA","AMR",1,2019,"Surveillance",1,NA,"A",66,15,NA,NA,NA,79,16,75,NA,NA,NA,4,NA,NA,NA,NA,NA,75,14,NA,NA,NA,NA,NA,NA,NA
+"675","United States of America","USA","AMR",2,2018,"Surveillance",1,NA,"A",68,16,NA,NA,NA,78,18,69,NA,NA,NA,1,76,63,10,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","United States of America","USA","AMR",3,2016,"Surveillance",1,NA,"A",68,14,NA,NA,NA,NA,NA,74,NA,NA,NA,1,83,68,10,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","United States of America","USA","AMR",4,2014,"Surveillance",1,NA,"A",60,22,1,NA,NA,NA,NA,66,55,8,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","United States of America","USA","AMR",5,2012,"Surveillance",1,NA,"A",70,10,1,0,0,NA,NA,71,58,6,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","Uzbekistan","UZB","EUR",1,2022,"Surveillance",1,NA,"A",755,641,NA,NA,NA,807,693,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,622,NA,NA,NA,NA,NA,NA,NA
+"680","Uzbekistan","UZB","EUR",2,2021,"Surveillance",1,NA,"A",792,718,NA,NA,NA,912,740,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1645,394,NA,NA,NA,NA,NA,NA,NA
+"681","Uzbekistan","UZB","EUR",3,2020,"Surveillance",1,NA,"A",721,673,NA,NA,NA,721,679,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1400,378,NA,NA,NA,NA,NA,NA,NA
+"682","Uzbekistan","UZB","EUR",4,2018,"Surveillance",1,NA,"A",392,424,NA,NA,NA,735,687,816,NA,NA,NA,0,1422,1404,11,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","Uzbekistan","UZB","EUR",5,2017,"Surveillance",1,NA,"A",351,189,NA,NA,NA,657,1200,540,NA,NA,NA,0,540,477,51,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","Uzbekistan","UZB","EUR",6,2011,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,319,216,23,63,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","Saint Vincent and the Grenadines","VCT","AMR",1,2022,"Surveillance",1,NA,"A",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"686","Saint Vincent and the Grenadines","VCT","AMR",2,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"687","Saint Vincent and the Grenadines","VCT","AMR",3,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"688","Viet Nam","VNM","WPR",1,2018,"Surveillance",1,NA,"A",0,305,NA,NA,NA,1472,1253,265,NA,NA,NA,13,1922,1519,316,148,61,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","Viet Nam","VNM","WPR",2,2012,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,84,15,15,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","Vanuatu","VUT","WPR",1,2020,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"691","Vanuatu","VUT","WPR",2,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,2,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"692","Vanuatu","VUT","WPR",3,2018,"Surveillance",1,NA,"N",0,0,NA,NA,NA,2,0,0,NA,NA,NA,0,2,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","Vanuatu","VUT","WPR",4,2017,"Surveillance",1,NA,"A",0,0,NA,NA,NA,1,0,0,NA,NA,NA,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","Wallis and Futuna Islands","WLF","WPR",1,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"695","Samoa","WSM","WPR",1,2022,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"696","Samoa","WSM","WPR",2,2021,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"697","Samoa","WSM","WPR",3,2019,"Surveillance",1,NA,"N",0,0,NA,NA,NA,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA
+"698","Samoa","WSM","WPR",4,2017,"Surveillance",1,NA,"A",0,NA,NA,NA,NA,0,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","Samoa","WSM","WPR",5,2016,"Surveillance",1,NA,"A",0,0,NA,0,0,NA,NA,0,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","Samoa","WSM","WPR",6,2013,"Surveillance",1,NA,"A",0,0,0,0,0,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","Samoa","WSM","WPR",7,2012,"Surveillance",1,NA,"A",0,NA,NA,0,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","South Africa","ZAF","AFR",1,2021,"Surveillance",1,NA,"A",1548,1269,NA,NA,NA,3665,2716,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6381,725,NA,NA,NA,NA,NA,NA,NA
+"703","South Africa","ZAF","AFR",2,2014,"Survey",1,NA,"A",NA,NA,NA,NA,NA,NA,NA,239,NA,31,31,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","Zambia","ZMB","AFR",1,2018,"Surveillance",1,NA,"N",9,111,NA,NA,NA,423,204,120,NA,NA,NA,1,150,141,4,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","Zimbabwe","ZWE","AFR",1,2020,"Surveillance",1,NA,"A",25,37,NA,NA,NA,124,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,224,2,NA,NA,NA,NA,NA,NA,NA
+"706","Zimbabwe","ZWE","AFR",2,2019,"Surveillance",1,NA,"N",32,42,NA,NA,NA,282,49,74,NA,NA,NA,8,NA,NA,NA,NA,NA,141,20,NA,NA,NA,NA,NA,NA,NA
+"707","Zimbabwe","ZWE","AFR",3,2018,"Surveillance",1,NA,"N",117,NA,NA,NA,NA,406,NA,117,NA,NA,NA,6,406,383,13,16,6,NA,NA,NA,NA,NA,NA,NA,NA,NA

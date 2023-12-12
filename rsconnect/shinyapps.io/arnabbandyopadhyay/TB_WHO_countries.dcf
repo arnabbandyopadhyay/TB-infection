@@ -1,0 +1,12 @@
+name: TB_WHO_countries
+title: TB_WHO_countries
+username: arnabbandyopadhyay
+account: arnabbandyopadhyay
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10774410
+bundleId: 8036272
+url: https://arnabbandyopadhyay.shinyapps.io/TB_WHO_countries/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
